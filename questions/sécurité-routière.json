@@ -1,0 +1,1039 @@
+[
+    {
+        "type": "Choix multiple",
+        "question": "1 Ce panneau :",
+        "bareme": "3",
+        "choices": [
+            "A m'oblige à réduire ma vitesse",
+            "B m'indique une descente dangereuse dans un sens de circulation unique sur deux voies",
+            "C m'indique une descente dangereuse sur une distance de 1 500 mètres",
+            "D m'indique une descente dangereuse dans 1 500 mètres de distance"
+        ],
+        "correct_answer": [
+            "A m'oblige à réduire ma vitesse",
+            "C m'indique une descente dangereuse sur une distance de 1 500 mètres"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "2 Est titulaire d'un permis probatoire tout conducteur qui obtient le permis de conduire :",
+        "bareme": "1",
+        "choices": [
+            "A après invalidation administrative",
+            "B après annulation judiciaire du précédent titre",
+            "C après réussite à la catégorie A lorsqu'il est titulaire de la catégorie B depuis plus de trois ans"
+        ],
+        "correct_answer": [
+            "A après invalidation administrative",
+            "B après annulation judiciaire du précédent titre"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "3 Quelles sont les conditions d'utilisation du triangle de pré-signalisation en agglomération ?",
+        "bareme": "1",
+        "choices": [
+            "A Il n'y a pas de conditions d'utilisation",
+            "B Il doit être placé sur la chaussée à une distance de 30 mètres environ du véhicule ou de l'obstacle à signaler",
+            "C Il faut placer le triangle de signalisation même si cette action constitue une mise en danger manifeste de la vie du conducteur",
+            "D Il doit être placé sur le toit du véhicule"
+        ],
+        "correct_answer": [
+            "B Il doit être placé sur la chaussée à une distance de 30 mètres environ du véhicule ou de l'obstacle à signaler"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "4 En suivant un stage de sensibilisation à la sécurité routière, un conducteur qui a commis une infraction ayant donné lieu à un retrait de points peut retrouver :",
+        "bareme": "3",
+        "choices": [
+            "A 10 points",
+            "B 8 points",
+            "C 4 points"
+        ],
+        "correct_answer": [
+            "C 4 points"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "5 Comment se nomme une ligne possédant une bande de 3 mètres dont les intervalles sont de 1,33 mètre ?",
+        "bareme": "1",
+        "choices": [
+            "A une bande d'arrêt d'urgence",
+            "B une ligne d'insertion",
+            "C une ligne discontinue",
+            "D une ligne de dissuasion"
+        ],
+        "correct_answer": [
+            "D une ligne de dissuasion"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "6 Le dépistage de stupéfiants est :",
+        "bareme": "1",
+        "choices": [
+            "A possible lors d'un accident corporel ou matériel",
+            "B obligatoire pour toute infraction",
+            "C obligatoire lors d'un accident mortel"
+        ],
+        "correct_answer": [
+            "A possible lors d'un accident corporel ou matériel",
+            "C obligatoire lors d'un accident mortel"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "7 A 50 km/h, la distance de sécurité est de :",
+        "bareme": "1",
+        "choices": [
+            "A 20 mètres",
+            "B 40 mètres",
+            "C 30 mètres"
+        ],
+        "correct_answer": [
+            "C 30 mètres"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "8 Un conducteur qui commet un excès de vitesse de 40 km/h au-dessus de la vitesse autorisée risque :",
+        "bareme": "1",
+        "choices": [
+            "A une peine d'emprisonnement",
+            "B la suspension de son permis de conduire",
+            "C la réduction de six points du permis de conduire"
+        ],
+        "correct_answer": [
+            "B la suspension de son permis de conduire"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "9 Dans un tunnel éclairé, hors agglomération, je circule :",
+        "bareme": "1",
+        "choices": [
+            "A en feux de croisement",
+            "B en feux de route",
+            "C en feux de brouillard"
+        ],
+        "correct_answer": [
+            "A en feux de croisement"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "10 Contrôlé avec un taux d'alcool de 0,7 gramme par litre de sang, je risque:",
+        "bareme": "1",
+        "choices": [
+            "A une amende",
+            "B un retrait de 4 points sur mon permis de conduire",
+            "C un retrait de 6 points sur mon permis de conduire",
+            "D une peine de prison"
+        ],
+        "correct_answer": [
+            "A une amende",
+            "C un retrait de 6 points sur mon permis de conduire"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 Pour dépasser un cycliste hors agglomération, le code de la route impose au conducteur de laisser un espace latéral :",
+        "bareme": "3",
+        "choices": [
+            "A Suffisant, en fonction de la largeur de la chaussée",
+            "B De 1,5 mètre au minimum",
+            "C De 1 mètre au minimum"
+        ],
+        "correct_answer": [
+            "B De 1,5 mètre au minimum"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 Dans quel délai un automobiliste doit-il transmettre un constat amiable à son assureur ?",
+        "bareme": "1",
+        "choices": [
+            "A 1 mois",
+            "B 7 jours",
+            "C 2 jours",
+            "D 5 jours"
+        ],
+        "correct_answer": [
+            "D 5 jours"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "13 Lorsque je manoeuvre :",
+        "bareme": "1",
+        "choices": [
+            "A je suis toujours prioritaire",
+            "B je dois la priorité durant la manoeuvre",
+            "C je dois la priorité avant de manoeuvrer"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 Par temps de pluie, l'utilisation des feux de brouillard arrière est :",
+        "bareme": "1",
+        "choices": [
+            "A interdite",
+            "B obligatoire",
+            "C conseillée"
+        ],
+        "correct_answer": [
+            "A interdite"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "15 Que faut-il faire en cas d'incendie dans un tunnel :",
+        "bareme": "1",
+        "choices": [
+            "A faire un demi-tour avec son véhicule pour fuir plus vite",
+            "B laisser les clefs de contact sur le véhicule, après avoir éteint le moteur",
+            "C évacuer le tunnel par l'issue de secours la plus proche"
+        ],
+        "correct_answer": [
+            "B laisser les clefs de contact sur le véhicule, après avoir éteint le moteur",
+            "C évacuer le tunnel par l'issue de secours la plus proche"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "16 Le non-port de la ceinture de sécurité en voiture peut entraîner un retrait sur le permis de conduire de:",
+        "bareme": "1",
+        "choices": [
+            "A 2 points",
+            "B 3 points",
+            "C 4 points"
+        ],
+        "correct_answer": [
+            "B 3 points"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "Cet emplacement (place handicapés):",
+        "bareme": "1",
+        "choices": [
+            "A son occupation illicite est punie d'une contravention de troisième classe",
+            "B son occupation illicite fait encourir une mise en fourrière du véhicule",
+            "C est réservé aux véhicules portant une carte de stationnement pour personnes handicapées",
+            "D est réservé aux véhicules transportant une ou plusieurs personnes handicapées"
+        ],
+        "correct_answer": [
+            "B son occupation illicite fait encourir une mise en fourrière du véhicule",
+            "C est réservé aux véhicules portant une carte de stationnement pour personnes handicapées"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "18 L'ABS (système d'antiblocage des roues):",
+        "bareme": "1",
+        "choices": [
+            "A aide à maintenir la direction du véhicule",
+            "B réduit considérablement la distance d'arrêt",
+            "C permet de ne pas allonger la distance d'arrêt"
+        ],
+        "correct_answer": [
+            "A aide à maintenir la direction du véhicule",
+            "C permet de ne pas allonger la distance d'arrêt"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "19 Les véhicules particuliers immatriculés avant le 1er janvier de quelle année (essence et diesel) ne peuvent pas circuler dans la Capitale en semaine de 8h à 20h ?",
+        "bareme": "1",
+        "choices": [
+            "A 1er janvier 1997",
+            "B 1er janvier 1998",
+            "C 1er janvier 1995",
+            "D 1er janvier 1996"
+        ],
+        "correct_answer": [
+            "A 1er janvier 1997",
+            "C 1er janvier 1995",
+            "D 1er janvier 1996"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "20 L'accès à une autoroute est interdit aux véhicules qui par construction ne peuvent dépasser la vitesse maximale de :",
+        "bareme": "1",
+        "choices": [
+            "A 60 km/h",
+            "B 40 km/h",
+            "C 70 km/h"
+        ],
+        "correct_answer": [
+            "B 40 km/h"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "1 Mon voyant d'essence vient de s'allumer :",
+        "bareme": "1",
+        "choices": [
+            "A j'allume mes feux de détresse",
+            "B je continue ma route jusqu'à une prochaine station",
+            "C je réduis mon allure afin de diminuer ma consommation de carburant",
+            "D je m'arrête sur ma droite"
+        ],
+        "correct_answer": [
+            "B je continue ma route jusqu'à une prochaine station",
+            "C je réduis mon allure afin de diminuer ma consommation de carburant"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "2 Lorsque les pneus sont sous-gonflés cela entraîne:",
+        "bareme": "1",
+        "choices": [
+            "A une augmentation de la consommation de carburant",
+            "B une meilleure adhérence à la route",
+            "C un risque accru d'éclatement"
+        ],
+        "correct_answer": [
+            "A une augmentation de la consommation de carburant",
+            "C un risque accru d'éclatement"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "3 Sur un trajet de 100 km sur autoroute, si je roule à 130 km/h au lieu de 120 km/h, je « gagne » environ :",
+        "bareme": "1",
+        "choices": [
+            "A 4 minutes",
+            "B 10 minutes",
+            "C 15 minutes",
+            "D 8 minutes"
+        ],
+        "correct_answer": [
+            "A 4 minutes"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "4 Quelles sont les obligations expressément prévues par le code de la route, pour tout conducteur impliqué dans un accident de la circulation qui n'a provoqué que des dégâts matériels ?",
+        "bareme": "1",
+        "choices": [
+            "A communiquer son identité et son adresse à toute personne impliquée dans l'accident",
+            "B avertir ou faire avertir la police",
+            "C avertir ou faire avertir la gendarmerie",
+            "D s'arrêter aussitôt que cela lui est possible, sans créer de danger pour la circulation"
+        ],
+        "correct_answer": [
+            "A communiquer son identité et son adresse à toute personne impliquée dans l'accident",
+            "D s'arrêter aussitôt que cela lui est possible, sans créer de danger pour la circulation"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "5 En cas de panne de votre véhicule, à quelle distance placez-vous le triangle de pré signalisation ?",
+        "bareme": "1",
+        "choices": [
+            "A 30 mètres au moins de votre véhicule",
+            "B 50 mètres au moins de votre véhicule",
+            "C 10 mètres au moins de votre véhicule"
+        ],
+        "correct_answer": [
+            "A 30 mètres au moins de votre véhicule"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "6 Que risque un conducteur en cas de dépassement de la vitesse maximale autorisée compris entre 40 km/h et moins de 50 km/h ?",
+        "bareme": "1",
+        "choices": [
+            "A La perte de deux points du permis de conduire",
+            "B Une contravention de quatrième classe",
+            "C La perte de quatre points du permis de conduire",
+            "D Une contravention de première classe"
+        ],
+        "correct_answer": [
+            "B Une contravention de quatrième classe",
+            "C La perte de quatre points du permis de conduire"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "7 En agglomération, l'usage de l'avertisseur sonore est autorisé :",
+        "bareme": "1",
+        "choices": [
+            "A pour donner les avertissements nécessaires aux autres usagers de la route",
+            "B pour saluer un collègue conducteur",
+            "C en cas de danger immédiat"
+        ],
+        "correct_answer": [
+            "C en cas de danger immédiat"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "8 Combien de points perdez-vous en cas de chevauchement d'une ligne continue ?",
+        "bareme": "1",
+        "choices": [
+            "A 3 points",
+            "B 1 point",
+            "C 2 points"
+        ],
+        "correct_answer": [
+            "B 1 point"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "9 Les feux de route éclairent à une distance minimale de :",
+        "bareme": "1",
+        "choices": [
+            "A 50 mètres",
+            "B 100 mètres",
+            "C 200 mètres",
+            "D 150 mètres"
+        ],
+        "correct_answer": [
+            "B 100 mètres"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "10 A 90 km/h la distance d'arrêt est approximativement de:",
+        "bareme": "1",
+        "choices": [
+            "A 50 m",
+            "B 80 m",
+            "C 70 m"
+        ],
+        "correct_answer": [
+            "B 80 m"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 Les piétons qui s'engagent dans la traversée d'une chaussée :",
+        "bareme": "1",
+        "choices": [
+            "A Ont le droit de s'engager quelle que soit la vitesse et la distance des véhicules",
+            "B Doivent traverser la chaussée en tenant compte de la visibilité ainsi que de la distance et de la vitesse des véhicules",
+            "C N'ont pas le droit de s'engager dans la traversée d'une chaussée hors d'un passage piéton, même s'il n'en n'existe pas à moins de 50 mètres",
+            "D Sont tenus d'utiliser, lorsqu'il en existe à moins de 50 mètres, les passages prévus à leur intention"
+        ],
+        "correct_answer": [
+            "B Doivent traverser la chaussée en tenant compte de la visibilité ainsi que de la distance et de la vitesse des véhicules",
+            "D Sont tenus d'utiliser, lorsqu'il en existe à moins de 50 mètres, les passages prévus à leur intention"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 Le décret n° 2016-448 du 13 avril 2016 modifiant certaines dispositions du code de la route relatives aux véhicules interdit les « vitres surteintées ». A cette fin, il impose :",
+        "bareme": "1",
+        "choices": [
+            "A un taux minimal de transparence de 70% sur les vitres avant et le pare-prise",
+            "B un taux minimal de transparence de 80% sur les vitres avant, le pare-prise et les vitres arrières",
+            "C un taux minimal de transparence de 80% sur les vitres arrières et lunettes-arrières",
+            "D un taux minimal de transparence de 70% sur les vitres avant, le pare-prise et les vitres arrières"
+        ],
+        "correct_answer": [
+            "A un taux minimal de transparence de 70% sur les vitres avant et le pare-prise"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "13 Dans quel cas l'arrêt est-il autorisé sur la bande d'arrêt d'urgence de l'autoroute ?",
+        "bareme": "1",
+        "choices": [
+            "A en cas de panne ou d'accident",
+            "B pour téléphoner",
+            "C dans tous les cas",
+            "D jamais"
+        ],
+        "correct_answer": [
+            "A en cas de panne ou d'accident"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 La durée du temps de réaction est d'environ:",
+        "bareme": "1",
+        "choices": [
+            "A 1/10 ième de seconde",
+            "B 1 seconde",
+            "C 1/2 seconde"
+        ],
+        "correct_answer": [
+            "B 1 seconde"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "15 En agglomération, lorsque vous dépassez latéralement, un piéton ou un cycliste, vous devez laisser un espace d'au moins :",
+        "bareme": "1",
+        "choices": [
+            "A 1,50 mètres",
+            "B 1 mètre",
+            "C 0,50 mètre",
+            "D 3 mètres"
+        ],
+        "correct_answer": [
+            "B 1 mètre"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "16 Titulaire d'un permis probatoire, dans quel cas, devrais-je suivre obligatoirement un stage de sensibilisation à la sécurité",
+        "bareme": "1",
+        "choices": [
+            "routière :",
+            "A en cas de perte en une seule fois de 3 points",
+            "B en cas de perte en une seule fois de 4 points",
+            "C en cas de perte en une seule fois de 2 points"
+        ],
+        "correct_answer": [
+            "A en cas de perte en une seule fois de 3 points",
+            "B en cas de perte en une seule fois de 4 points"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "17 Ce panneau signale :",
+        "bareme": "1",
+        "choices": [
+            "A un cassis ou dos d'âne",
+            "B un ralentisseur de type dos d'âne",
+            "C un ralentisseur"
+        ],
+        "correct_answer": [
+            "A un cassis ou dos d'âne"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "18 Par temps de pluie, est allongé(e) :",
+        "bareme": "1",
+        "choices": [
+            "A la distance d'arrêt",
+            "B l'adhérence sur la route",
+            "C la distance de freinage",
+            "D le temps de réaction"
+        ],
+        "correct_answer": [
+            "A la distance d'arrêt",
+            "C la distance de freinage"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "19 Vous êtes au volant de votre véhicule et recevez un appel sur votre téléphone portable. Vous prenez le téléphone en main, vous encourez :",
+        "bareme": "1",
+        "choices": [
+            "A un retrait de deux points",
+            "B un retrait de trois points",
+            "C un retrait d'un point"
+        ],
+        "correct_answer": [
+            "B un retrait de trois points"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "20 En cas de récidive d'une conduite sous l'influence de substances ou de plantes classées comme stupéfiants, vous encourez :",
+        "bareme": "1",
+        "choices": [
+            "A la confiscation/immobilisation de votre véhicule",
+            "B la suspension de votre permis de conduire",
+            "C l'annulation de votre permis de conduire"
+        ],
+        "correct_answer": [
+            "A la confiscation/immobilisation de votre véhicule",
+            "C l'annulation de votre permis de conduire"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "1 Sur un trajet de 100 km sur autoroute, si je roule à 130 km/h au lieu de 120 km/h, je « gagne » environ :",
+        "bareme": "1",
+        "choices": [
+            "A 4 minutes",
+            "B 10 minutes",
+            "C 15 minutes",
+            "D 8 minutes"
+        ],
+        "correct_answer": [
+            "A 4 minutes"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "2 Par temps de pluie, est allongé(e) :",
+        "bareme": "1",
+        "choices": [
+            "A le temps de réaction",
+            "B la distance de freinage",
+            "C la distance d'arrêt",
+            "D l'adhérence sur la route"
+        ],
+        "correct_answer": [
+            "B la distance de freinage",
+            "C la distance d'arrêt"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "3 Vous êtes au volant de votre véhicule et recevez un appel sur votre téléphone portable. Vous prenez le téléphone en main, vous encourez :",
+        "bareme": "1",
+        "choices": [
+            "A un retrait d'un point",
+            "B un retrait de deux points",
+            "C un retrait de trois points"
+        ],
+        "correct_answer": [
+            "C un retrait de trois points"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "4 Quelles sont les obligations expressément prévues par le code de la route, pour tout conducteur impliqué dans un accident de la circulation qui n'a provoqué que des dégâts matériels ?",
+        "bareme": "1",
+        "choices": [
+            "A avertir ou faire avertir la police",
+            "B avertir ou faire avertir la gendarmerie",
+            "C s'arrêter aussitôt que cela lui est possible, sans créer de danger pour la circulation",
+            "D communiquer son identité et son adresse à toute personne impliquée dans l'accident"
+        ],
+        "correct_answer": [
+            "C s'arrêter aussitôt que cela lui est possible, sans créer de danger pour la circulation",
+            "D communiquer son identité et son adresse à toute personne impliquée dans l'accident"
+        ],
+        "correct_answer_letter": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "5 Les piétons qui s'engagent dans la traversée d'une chaussée :",
+        "bareme": "1",
+        "choices": [
+            "A Doivent traverser la chaussée en tenant compte de la visibilité ainsi que de la distance et de la vitesse des véhicules",
+            "B Ont le droit de s'engager quelle que soit la vitesse et la distance des véhicules",
+            "C N'ont pas le droit de s'engager dans la traversée d'une chaussée hors d'un passage piéton, même s'il n'en n'existe pas à moins de 50 mètres",
+            "D Sont tenus d'utiliser, lorsqu'il en existe à moins de 50 mètres, les passages prévus à leur intention"
+        ],
+        "correct_answer": [
+            "A Doivent traverser la chaussée en tenant compte de la visibilité ainsi que de la distance et de la vitesse des véhicules",
+            "D Sont tenus d'utiliser, lorsqu'il en existe à moins de 50 mètres, les passages prévus à leur intention"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "6 En cas de récidive d'une conduite sous l'influence de substances ou de plantes classées comme stupéfiants, vous encourez :",
+        "bareme": "1",
+        "choices": [
+            "A l'annulation de votre permis de conduire",
+            "B la suspension de votre permis de conduire",
+            "C la confiscation/immobilisation de votre véhicule"
+        ],
+        "correct_answer": [
+            "A l'annulation de votre permis de conduire",
+            "C la confiscation/immobilisation de votre véhicule"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "7 Mon voyant d'essence vient de s'allumer :",
+        "bareme": "1",
+        "choices": [
+            "A je réduis mon allure afin de diminuer ma consommation de carburant",
+            "B je continue ma route jusqu'à une prochaine station",
+            "C j'allume mes feux de détresse",
+            "D je m'arrête sur ma droite"
+        ],
+        "correct_answer": [
+            "A je réduis mon allure afin de diminuer ma consommation de carburant",
+            "B je continue ma route jusqu'à une prochaine station"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "8 Le décret n° 2016-448 du 13 avril 2016 modifiant certaines dispositions du code de la route relatives aux véhicules interdit les « vitres surteintées ». A cette fin, il impose :",
+        "bareme": "1",
+        "choices": [
+            "A un taux minimal de transparence de 70% sur les vitres avant et le pare-prise",
+            "B un taux minimal de transparence de 80% sur les vitres arrières et lunettes-arrières",
+            "C un taux minimal de transparence de 70% sur les vitres avant, le pare-prise et les vitres arrières",
+            "D un taux minimal de transparence de 80% sur les vitres avant, le pare-prise et les vitres arrières"
+        ],
+        "correct_answer": [
+            "A un taux minimal de transparence de 70% sur les vitres avant et le pare-prise"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "9 En cas de panne de votre véhicule, à quelle distance placez-vous le triangle de pré signalisation ?",
+        "bareme": "1",
+        "choices": [
+            "A 50 mètres au moins de votre véhicule",
+            "B 10 mètres au moins de votre véhicule",
+            "C 30 mètres au moins de votre véhicule"
+        ],
+        "correct_answer": [
+            "C 30 mètres au moins de votre véhicule"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "10 En agglomération, l'usage de l'avertisseur sonore est autorisé :",
+        "bareme": "1",
+        "choices": [
+            "A pour donner les avertissements nécessaires aux autres usagers de la route",
+            "B en cas de danger immédiat",
+            "C pour saluer un collègue conducteur"
+        ],
+        "correct_answer": [
+            "B en cas de danger immédiat"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 A 90 km/h la distance d'arrêt est approximativement de:",
+        "bareme": "1",
+        "choices": [
+            "A 50 m",
+            "B 70 m",
+            "C 80 m"
+        ],
+        "correct_answer": [
+            "C 80 m"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 Lorsque les pneus sont sous-gonflés cela entraîne:",
+        "bareme": "1",
+        "choices": [
+            "A un risque accru d'éclatement",
+            "B une augmentation de la consommation de carburant",
+            "C une meilleure adhérence à la route"
+        ],
+        "correct_answer": [
+            "A un risque accru d'éclatement",
+            "B une augmentation de la consommation de carburant"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "13 Que risque un conducteur en cas de dépassement de la vitesse maximale autorisée compris entre 40 km/h et moins de 50",
+        "bareme": "1",
+        "choices": [
+            "km/h ?",
+            "A Une contravention de première classe",
+            "B Une contravention de quatrième classe",
+            "C La perte de deux points du permis de conduire",
+            "D La perte de quatre points du permis de conduire"
+        ],
+        "correct_answer": [
+            "B Une contravention de quatrième classe",
+            "D La perte de quatre points du permis de conduire"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 La durée du temps de réaction est d'environ:",
+        "bareme": "1",
+        "choices": [
+            "A 1/2 seconde",
+            "B 1/10 ième de seconde",
+            "C 1 seconde"
+        ],
+        "correct_answer": [
+            "C 1 seconde"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "15 Dans quel cas l'arrêt est-il autorisé sur la bande d'arrêt d'urgence de l'autoroute ?",
+        "bareme": "1",
+        "choices": [
+            "A jamais",
+            "B en cas de panne ou d'accident",
+            "C dans tous les cas",
+            "D pour téléphoner"
+        ],
+        "correct_answer": [
+            "B en cas de panne ou d'accident"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "16 Combien de points perdez-vous en cas de chevauchement d'une ligne continue ?",
+        "bareme": "1",
+        "choices": [
+            "A 3 points",
+            "B 2 points",
+            "C 1 point"
+        ],
+        "correct_answer": [
+            "C 1 point"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "17 Les feux de route éclairent à une distance minimale de :",
+        "bareme": "1",
+        "choices": [
+            "A 100 mètres",
+            "B 50 mètres",
+            "C 150 mètres",
+            "D 200 mètres"
+        ],
+        "correct_answer": [
+            "A 100 mètres"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "18 Titulaire d'un permis probatoire, dans quel cas, devrais-je suivre obligatoirement un stage de sensibilisation à la sécurité",
+        "bareme": "1",
+        "choices": [
+            "routière :",
+            "A en cas de perte en une seule fois de 2 points",
+            "B en cas de perte en une seule fois de 3 points",
+            "C en cas de perte en une seule fois de 4 points"
+        ],
+        "correct_answer": [
+            "B en cas de perte en une seule fois de 3 points",
+            "C en cas de perte en une seule fois de 4 points"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "19 En agglomération, lorsque vous dépassez latéralement, un piéton ou un cycliste, vous devez laisser un espace d'au moins :",
+        "bareme": "1",
+        "choices": [
+            "A 3 mètres",
+            "B 1 mètre",
+            "C 0,50 mètre",
+            "D 1,50 mètres"
+        ],
+        "correct_answer": [
+            "B 1 mètre"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "20",
+        "bareme": "1",
+        "choices": [
+            "Ce panneau signale :",
+            "A un cassis ou dos d'âne",
+            "B un ralentisseur de type dos d'âne",
+            "C un ralentisseur"
+        ],
+        "correct_answer": [
+            "A un cassis ou dos d'âne"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    }
+]

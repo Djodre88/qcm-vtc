@@ -1,0 +1,877 @@
+[
+    {
+        "type": "Choix multiple",
+        "question": "1 Lors de la création d'une société la rédaction d'une annonce légale est :",
+        "bareme": "1",
+        "choices": [
+            "A obligatoire",
+            "B nécessaire pour faire de la publicité",
+            "C facultative"
+        ],
+        "correct_answer": [
+            "A obligatoire"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "2 L'adhérent d'un centre de gestion agréé :",
+        "bareme": "1",
+        "choices": [
+            "A N'a pas le droit d'accepter les paiements en espèces",
+            "B Est tenu d'accepter les paiements par chèque",
+            "C Ne peut accepter les paiements par carte bancaire"
+        ],
+        "correct_answer": [
+            "B Est tenu d'accepter les paiements par chèque"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "3 Que signifie le signe CRDS ?",
+        "bareme": "1",
+        "choices": [
+            "A contribution pour la réduction de la dette sociale",
+            "B contribution régionale pour les dépenses sociales",
+            "C contribution pour le regroupement des dettes sociales",
+            "D contribution pour le remboursement de la dette sociale"
+        ],
+        "correct_answer": [
+            "D contribution pour le remboursement de la dette sociale"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "4 Pour être immatriculé au Répertoire des métiers, le futur chef d'entreprise du T3P doit :",
+        "bareme": "1",
+        "choices": [
+            "A être titulaire du permis D transports en commun",
+            "B avoir une qualification professionnelle spécifique",
+            "C être propriétaire de son véhicule"
+        ],
+        "correct_answer": [
+            "B avoir une qualification professionnelle spécifique"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "5 Un véhicule est acquis 22 000 € HT le 1er avril 2016. Calculez l'amortissement 2016, bilan au 31/12/2016, en tenant compte d'une durée d'amortissement de 4 ans.",
+        "bareme": "1",
+        "choices": [
+            "A 5 500 €",
+            "B 4 125 €",
+            "C 6 574 €",
+            "D 5 885 €"
+        ],
+        "correct_answer": [
+            "B 4 125 €"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "6 Le cout de revient d'une prestation est de 22€, vous souhaitez réaliser une marge de 20% sur le prix de vente net de taxe,",
+        "bareme": "1",
+        "choices": [
+            "votre prix de vente net de taxe sera de :",
+            "A 26,00 €",
+            "B 26,40 €",
+            "C 27,50 €"
+        ],
+        "correct_answer": [
+            "B 26,40 €"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "7 Quel acte donne naissance à l'entreprise ?",
+        "bareme": "1",
+        "choices": [
+            "A le paiement des cotisations sociales",
+            "B l'immatriculation au CFE",
+            "C la rédaction de la 1ere facture"
+        ],
+        "correct_answer": [
+            "B l'immatriculation au CFE"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "8 Pour constituer une entreprise individuelle, le capital minimum à apporter est de :",
+        "bareme": "1",
+        "choices": [
+            "A 3 000 €",
+            "B 7 500 €",
+            "C Aucun capital social minimum n'est requis",
+            "D 1 €"
+        ],
+        "correct_answer": [
+            "C Aucun capital social minimum n'est requis"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "9 L'EBE signifie :",
+        "bareme": "1",
+        "choices": [
+            "A encaissement brut excédentaire",
+            "B excédent brut d'exploitation",
+            "C excédent bénéficiaire employé"
+        ],
+        "correct_answer": [
+            "B excédent brut d'exploitation"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "10 Où sera comptabilisé à la date de clôture de l'exercice comptable le montant des achats réalisés sachant que tous les consommables ont été utilisés ?",
+        "bareme": "1",
+        "choices": [
+            "A dotation aux amortissements",
+            "B créances fournisseurs",
+            "C compte de résultat",
+            "D passif du bilan"
+        ],
+        "correct_answer": [
+            "C compte de résultat"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 Les chambres de métiers et de l'artisanat et les chambres de commerce et d'industrie sont des :",
+        "bareme": "1",
+        "choices": [
+            "A Etablissements publics",
+            "B Entreprises",
+            "C Collectivités territoriales",
+            "D Associations"
+        ],
+        "correct_answer": [
+            "A Etablissements publics"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 La déclaration de cessation de paiement se fait :",
+        "bareme": "1",
+        "choices": [
+            "A a la chambre de commerce et d'industrie",
+            "B a la chambre de métiers et de l'artisanat",
+            "C auprès du greffe du Tribunal de Commerce"
+        ],
+        "correct_answer": [
+            "C auprès du greffe du Tribunal de Commerce"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "13 Citez 2 types d'immobilisations.",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Immobilisations corporelles, immobilisations incorporelles, immobilisations financières."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 Deux personnes décident de créer une SARL en détenant chacune la moitié des parts sociales. Elles souhaitent exercer en commun la gérance de la société. Indiquez le statut social de ces deux personnes :",
+        "bareme": "1",
+        "choices": [
+            "A statut d'entrepreneur individuel",
+            "B statut des travailleurs non-salariés",
+            "C statut des salariés"
+        ],
+        "correct_answer": [
+            "B statut des travailleurs non-salariés"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "15 Vous créez seul(e) une activité de transport de personnes. Quels sont les statuts juridiques possibles ? (citez-en trois)",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Entreprise Individuelle et/ou microentreprise. Entreprise individuelle à Responsabilité Limitée. EURL. SASU"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "16 La CSG :",
+        "bareme": "1",
+        "choices": [
+            "A est un impôt supporté par le salarié et prélevé sur sa fiche de paie",
+            "B signifie « Contribution Salariale Généralisée »",
+            "C est un impôt prélevé à la source."
+        ],
+        "correct_answer": [
+            "A est un impôt supporté par le salarié et prélevé sur sa fiche de paie",
+            "C est un impôt prélevé à la source."
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "17 Parmi les 3 termes de comptabilité suivants, lequel n'est pas une composante de l'actif du bilan ?",
+        "bareme": "1",
+        "choices": [
+            "A le résultat de l'exercice",
+            "B les disponibilités",
+            "C les frais d'établissement"
+        ],
+        "correct_answer": [
+            "A le résultat de l'exercice"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "18 Le capital social d'une SARL est divisé en :",
+        "bareme": "1",
+        "choices": [
+            "A actions",
+            "B parts sociales",
+            "C obligations"
+        ],
+        "correct_answer": [
+            "B parts sociales"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "1 Qu'est-ce qu'un investissement ?",
+        "bareme": "1",
+        "choices": [
+            "A Les assurances professionnelles",
+            "B L'acquisition d'un véhicule",
+            "C Les honoraires d'expert comptable"
+        ],
+        "correct_answer": [
+            "B L'acquisition d'un véhicule"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "2 Selon le Code du Commerce, les documents comptables doivent être conservés :",
+        "bareme": "1",
+        "choices": [
+            "A un an",
+            "B 3 ans",
+            "C 5 ans",
+            "D 10 ans"
+        ],
+        "correct_answer": [
+            "D 10 ans"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "3 Un artisan achète un véhicule 21 000 € HT. Ce véhicule est amorti sur 3 ans. De combien sera l'amortissement annuel ?",
+        "bareme": "2",
+        "choices": [
+            "Détaillez votre calcul.",
+            "Indication/Right answer : 21 000 / 3 = 7 000 € HT d'amortissement annuel"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "4 Quels sont les critères qui caractérisent une activité relevant du Répertoire des Métiers ?",
+        "bareme": "1",
+        "choices": [
+            "A L'effectif",
+            "B La forme juridique",
+            "C La nature d'activité",
+            "D Le chiffre d'affaires"
+        ],
+        "correct_answer": [
+            "A L'effectif",
+            "C La nature d'activité"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "5 Qui attribue le code APE d'une entreprise ?",
+        "bareme": "1",
+        "choices": [
+            "A CMA",
+            "B URSSAF",
+            "C SSI",
+            "D INSEE"
+        ],
+        "correct_answer": [
+            "D INSEE"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "6 Quelle est la durée de vie maximum prévue par la loi pour une SARL ?",
+        "bareme": "1",
+        "choices": [
+            "A 99 ans",
+            "B 25 ans",
+            "C 10 ans",
+            "D 50 ans"
+        ],
+        "correct_answer": [
+            "A 99 ans"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "7 Que signifie le sigle SARL ?",
+        "bareme": "1",
+        "choices": [
+            "A Société anonyme à revenu limité",
+            "B Société à responsabilié limitée",
+            "C Société à risque limité"
+        ],
+        "correct_answer": [
+            "B Société à responsabilié limitée"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "8 Comment appelle-t-on l'extrait d'immatriculation d'une entreprise artisanale ?",
+        "bareme": "1",
+        "choices": [
+            "A un extrait K-bis",
+            "B un extrait de casier n°2",
+            "C un extrait D1"
+        ],
+        "correct_answer": [
+            "C un extrait D1"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "9 Qu'est-ce qu'une personne morale ?",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Une personne morale est généralement constituée par un regroupement de personnes physiques ou morales qui souhaitent accomplir quelque chose en commun."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "10 Chaque mois, la TVA à décaisser représente :",
+        "bareme": "1",
+        "choices": [
+            "A la TVA sur les achats",
+            "B la TVA déductible moins la TVA collectée",
+            "C la TVA collectée moins la TVA déductible"
+        ],
+        "correct_answer": [
+            "C la TVA collectée moins la TVA déductible"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 Lorsque les charges d'exploitation d'une entreprise sont inférieures aux produits :",
+        "bareme": "1",
+        "choices": [
+            "A il y a perte d'exploitation",
+            "B l'entreprise doit déposer le bilan",
+            "C il y a bénéfice"
+        ],
+        "correct_answer": [
+            "C il y a bénéfice"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 Dans quel cas un gérant de société à capitaux est-il salarié ?",
+        "bareme": "1",
+        "choices": [
+            "A Associé unique S.A.R.L.",
+            "B Gérant de S.A.R.L. possédant 49 % des parts sociales",
+            "C Gérant de S.A.R.L. possédant 51 % des parts sociales",
+            "D Gérant de S.A.S."
+        ],
+        "correct_answer": [
+            "B Gérant de S.A.R.L. possédant 49 % des parts sociales",
+            "D Gérant de S.A.S."
+        ],
+        "correct_answer_letter": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "13 Dans un bilan :",
+        "bareme": "1",
+        "choices": [
+            "A Si le total de l'actif est inférieur au passif il y a perte",
+            "B Le total de l'actif est toujours égal au total du passif",
+            "C Si le total de l'actif est supérieur au passif il y a bénéfice"
+        ],
+        "correct_answer": [
+            "B Le total de l'actif est toujours égal au total du passif"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 La CRDS signifie :",
+        "bareme": "1",
+        "choices": [
+            "A contribution régionale pour les dépenses sociales",
+            "B contribution pour la réduction de la dette sociale",
+            "C contribution régionale au développement social",
+            "D contribution pour le remboursement de la dette sociale"
+        ],
+        "correct_answer": [
+            "D contribution pour le remboursement de la dette sociale"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "15 Le Président d'une SASU est :",
+        "bareme": "1",
+        "choices": [
+            "A travailleur salarié",
+            "B salarié",
+            "C assimilé salarié"
+        ],
+        "correct_answer": [
+            "C assimilé salarié"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "16 La TVA sur les carburants est-elle récupérable ?",
+        "bareme": "1",
+        "choices": [
+            "A non, dans tous les cas",
+            "B oui, totalement dans tous les cas",
+            "C cela dépend de la fiscalité départementale",
+            "D oui, partiellement dans tous les cas"
+        ],
+        "correct_answer": [
+            "B oui, totalement dans tous les cas"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "17 Parmi ces propositions, qu'est-ce qui constitue une charge déductible pour un entrepreneur individuel ?",
+        "bareme": "1",
+        "choices": [
+            "A La facture d'entretien du véhicule",
+            "B Le prélèvement de l'exploitant",
+            "C L'achat d'un véhicule",
+            "D Le loyer de crédit-bail"
+        ],
+        "correct_answer": [
+            "A La facture d'entretien du véhicule",
+            "D Le loyer de crédit-bail"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "18 Pour être immatriculé au Répertoire des Métiers, le futur chef d'entreprise du T3P doit :",
+        "bareme": "1",
+        "choices": [
+            "A avoir une qualification professionnelle spécifique",
+            "B être titulaire du permis D transports en commun",
+            "C être propriétaire de son véhicule"
+        ],
+        "correct_answer": [
+            "A avoir une qualification professionnelle spécifique"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "1 Parmi ces propositions, qu'est-ce qui constitue une charge déductible pour un entrepreneur individuel ?",
+        "bareme": "1",
+        "choices": [
+            "A L'achat d'un véhicule",
+            "B La facture d'entretien du véhicule",
+            "C Le loyer de crédit-bail",
+            "D Le prélèvement de l'exploitant"
+        ],
+        "correct_answer": [
+            "B La facture d'entretien du véhicule",
+            "C Le loyer de crédit-bail"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "2 Lorsque les charges d'exploitation d'une entreprise sont inférieures aux produits :",
+        "bareme": "1",
+        "choices": [
+            "A il y a bénéfice d'exploitation",
+            "B l'entreprise doit déposer le bilan",
+            "C il y a perte d'exploitation"
+        ],
+        "correct_answer": [
+            "A il y a bénéfice d'exploitation"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "3 Quelle est la durée de vie maximum prévue par la loi pour une SARL ?",
+        "bareme": "1",
+        "choices": [
+            "A 25 ans",
+            "B 10 ans",
+            "C 50 ans",
+            "D 99 ans"
+        ],
+        "correct_answer": [
+            "D 99 ans"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "4 Comment appelle-t-on l'extrait d'immatriculation d'une entreprise artisanale ?",
+        "bareme": "1",
+        "choices": [
+            "A un extrait de casier n°2",
+            "B un extrait D1",
+            "C un extrait K-bis"
+        ],
+        "correct_answer": [
+            "B un extrait D1"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "5 Un artisan achète un véhicule 21 000 € HT. Ce véhicule est amorti sur 3 ans. De combien sera l'amortissement linéaire annuel ? Détaillez votre calcul.",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer :"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "6 Pour être immatriculé au Répertoire des Métiers, le futur chef d'entreprise du T3P doit :",
+        "bareme": "1",
+        "choices": [
+            "A avoir une qualification professionnelle spécifique",
+            "B être titulaire du permis D transports en commun",
+            "C être propriétaire de son véhicule"
+        ],
+        "correct_answer": [
+            "A avoir une qualification professionnelle spécifique"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "7 Qui attribue le code APE d'une entreprise ?",
+        "bareme": "1",
+        "choices": [
+            "A URSSAF",
+            "B SSI",
+            "C CMA",
+            "D INSEE"
+        ],
+        "correct_answer": [
+            "D INSEE"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "8 Que signifie le sigle SARL ?",
+        "bareme": "1",
+        "choices": [
+            "A société à responsabilité limitée",
+            "B société anonyme à responsabilité limitée",
+            "C société à régime limitée",
+            "D système anonyme à responsabilité limitée"
+        ],
+        "correct_answer": [
+            "B société anonyme à responsabilité limitée"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "9 Dans un bilan :",
+        "bareme": "1",
+        "choices": [
+            "A Si le total de l'actif est supérieur au passif il y a bénéfice",
+            "B Le total de l'actif est toujours égal au total du passif",
+            "C Si le total de l'actif est inférieur au passif il y a perte"
+        ],
+        "correct_answer": [
+            "B Le total de l'actif est toujours égal au total du passif"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "10 Qu'est-ce qu'une personne morale ?",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Une personne morale est généralement constituée par un regroupement de personnes physiques ou morales qui souhaitent accomplir quelque chose en commun."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 Le Président d'une SASU est :",
+        "bareme": "1",
+        "choices": [
+            "A salarié",
+            "B assimilé salarié",
+            "C travailleur salarié"
+        ],
+        "correct_answer": [
+            "B assimilé salarié"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 La CRDS signifie :",
+        "bareme": "1",
+        "choices": [
+            "A contribution régionale pour les dépenses sociales",
+            "B contribution pour le remboursement de la dette sociale",
+            "C contribution régionale au développement social",
+            "D contribution pour la réduction de la dette sociale"
+        ],
+        "correct_answer": [
+            "B contribution pour le remboursement de la dette sociale"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "13 Quels sont les critères qui caractérisent une activité relevant du Répertoire des Métiers ?",
+        "bareme": "1",
+        "choices": [
+            "A L'effectif",
+            "B Le chiffre d'affaires",
+            "C La nature d'activité",
+            "D La forme juridique"
+        ],
+        "correct_answer": [
+            "A L'effectif",
+            "C La nature d'activité"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 Dans quel cas un gérant de société à capitaux est-il salarié ?",
+        "bareme": "1",
+        "choices": [
+            "A Associé unique SARL",
+            "B Président de SAS",
+            "C Gérant de SARL possédant 51 % des parts sociales"
+        ],
+        "correct_answer": [
+            "B Président de SAS"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "15 Chaque mois, la TVA à décaisser représente :",
+        "bareme": "1",
+        "choices": [
+            "A la TVA sur les achats",
+            "B la TVA déductible moins la TVA collectée",
+            "C la TVA sur les ventes",
+            "D la TVA collectée moins la TVA déductible"
+        ],
+        "correct_answer": [
+            "D la TVA collectée moins la TVA déductible"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "16 Parmi les propositions suivantes, la ou lesquelles correspond(ent) à un investissement ?",
+        "bareme": "1",
+        "choices": [
+            "A Les honoraires d'expert-comptable",
+            "B Les assurances professionnelles",
+            "C L'acquisition d'un véhicule",
+            "D La révision du véhicule"
+        ],
+        "correct_answer": [
+            "C L'acquisition d'un véhicule"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "17 La TVA sur les carburants est-elle récupérable ?",
+        "bareme": "1",
+        "choices": [
+            "A oui, partiellement dans tous les cas",
+            "B non, dans tous les cas",
+            "C oui, totalement dans tous les cas",
+            "D cela dépend de la fiscalité départementale"
+        ],
+        "correct_answer": [
+            "C oui, totalement dans tous les cas"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "18 Selon le Code de Commerce, les documents comptables doivent être conservés :",
+        "bareme": "1",
+        "choices": [
+            "A 5 ans",
+            "B un an",
+            "C 3 ans",
+            "D 10 ans"
+        ],
+        "correct_answer": [
+            "D 10 ans"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    }
+]

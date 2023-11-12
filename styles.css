@@ -1,0 +1,100 @@
+/* Styles pour le conteneur principal */
+body {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column; /* Permet d'afficher le score en bas de la page */
+    align-items: center;
+    justify-content: center;
+    height: 80vh; /* Centrer verticalement */
+}
+
+#container {
+    margin-top: -50px; /* Marge négative pour décaler vers le haut */
+}
+
+/* Styles pour le conteneur de la question */
+#question-container {
+    /* background-color: #fff;
+    border: 1px solid #ccc; */
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 20px;
+}
+
+/* Styles pour le titre du questionnaire */
+#question-container {
+    font-size: 18px;
+    margin: 0 0 20px;
+}
+
+.question {
+    font-size: 34px;
+}
+
+/* Styles pour les choix multiples (checkbox) */
+.choice {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.choice input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Styles pour les cases à cocher */
+.choice label {
+    font-size: 16px;
+    margin: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 600px;
+    border-radius: 10px;
+}
+
+/* Styles pour le bouton de validation */
+#submit-button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+#submit-button:hover {
+    background-color: #0056b3;
+}
+
+/* Styles pour le conteneur de résultat */
+#result-container {
+    display: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 20px;
+}
+
+/* Styles pour le titre du résultat */
+#result-container  {
+    font-size: 24px;
+    margin: 0 0 20px;
+}
+
+/* Styles pour le score */
+#score-value {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+}

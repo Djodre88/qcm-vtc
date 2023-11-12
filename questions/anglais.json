@@ -1,0 +1,257 @@
+[
+    {
+        "type": "Choix multiple",
+        "question": "Evalbox Copie de Annales 2019 CMA FRANCE",
+        "bareme": "2",
+        "choices": [
+            "©Evalbox page 1/3"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "1 Est-ce que tout va bien ?",
+        "bareme": "1",
+        "choices": [
+            "A is everything ok?",
+            "B is everything fine?",
+            "C was everything fine?",
+            "D are everything ok?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "2 Sorry! It's quite expensive for us. May we get a ……………… price?",
+        "bareme": "1",
+        "choices": [
+            "A lower",
+            "B gooder",
+            "C less",
+            "D reduction"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "3 Votre séjour s'est-il bien passé ?",
+        "bareme": "1",
+        "choices": [
+            "A Where would you like to go?",
+            "B How was your trip?",
+            "C Did you enjoy your stay?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "4 Il est interdit de fumer dans la voiture !",
+        "bareme": "1",
+        "choices": [
+            "A it's allowed of smoke in the car!",
+            "B it's forbidden to smoke in the car!",
+            "C it's forbidden of smoke in the car!"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "5 Do you have change on ten euros?",
+        "bareme": "1",
+        "choices": [
+            "A connaissez-vous un bureau de change pour des euros ?",
+            "B avez-vous la monnaie sur dix euros ?",
+            "C pouvez-vous me donner dix euros ?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "6 Souhaitez-vous un reçu ?",
+        "bareme": "1",
+        "choices": [
+            "A do you want a ticket?",
+            "B did you want a bill?",
+            "C would you like a receipt?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "7 Puis-je mettre vos bagages dans le coffre ?",
+        "bareme": "1",
+        "choices": [
+            "A May I leave your luggage there?",
+            "B May I put your luggage in the trunk?",
+            "C May I take your luggage?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "8 A windscreen :",
+        "bareme": "1",
+        "choices": [
+            "A Un déflecteur",
+            "B Un GPS",
+            "C Un pare-brise"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "9 Où se trouve le musée s'il vous plait?",
+        "bareme": "1",
+        "choices": [
+            "A where is the museum please ?",
+            "B where is the musee please ?",
+            "C where was the museum please ?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "10 Quelle est la marque de votre voiture ?",
+        "bareme": "1",
+        "choices": [
+            "Evalbox Copie de Annales 2019 CMA FRANCE",
+            "©Evalbox page 2/3",
+            "A is that your car?",
+            "B how is your car?",
+            "C what is the brand of your car?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 My daughter is ……….; she wants to eat now.",
+        "bareme": "1",
+        "choices": [
+            "A angry",
+            "B hungry",
+            "C thirsty"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 Recevoir une amende :",
+        "bareme": "1",
+        "choices": [
+            "A to receive an almond",
+            "B to be fined",
+            "C to get a warning"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "13 What does « actually » mean?",
+        "bareme": "1",
+        "choices": [
+            "A réellement",
+            "B actuellement",
+            "C récent"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 Can you pick me up at the library, please?",
+        "bareme": "1",
+        "choices": [
+            "A pouvez-vous me déposer jusqu'à la librairie, s'il vous plaît ?",
+            "B pouvez-vous venir me chercher à la bibliothèque, s'il vous plaît ?",
+            "C pouvez-vous me chercher à une bibliothèque, s'il vous plaît ?",
+            "D pouvez-vous me porter jusqu'à une librairie, s'il vous plaît ?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "15 Comment se rend-on au cinéma ?",
+        "bareme": "1",
+        "choices": [
+            "A how can I go to the cinema?",
+            "B can you tell me the way to the cinema?",
+            "C how do you go to the cinema?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "16 Acceptez-vous les cartes de crédit étrangères ?",
+        "bareme": "1",
+        "choices": [
+            "A do you have any money?",
+            "B do you take stranger credit cards?",
+            "C do you accept foreign credit cards?"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "17 Keep the change :",
+        "bareme": "1",
+        "choices": [
+            "A Avez-vous de la monnaie ?",
+            "B Gardez cette direction",
+            "C Gardez la monnaie"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "18 Taking the bus is cheaper than taking the train:",
+        "bareme": "1",
+        "choices": [
+            "A prendre le bus est plus long que prendre le train",
+            "B prendre le bus coûte plus cher que prendre le train",
+            "C prendre le bus coûte moins cher que prendre le train"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "19 Séléctionnez la phrase correctement formulée :",
+        "bareme": "1",
+        "choices": [
+            "A there is a few pubs in Reims",
+            "B there is many pubs in Reims",
+            "C there are a few pubs in Reims"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    },
+    {
+        "type": "Choix multiple",
+        "question": "20 For international flights, travelers have to arrive two hours prior to departure",
+        "bareme": "1",
+        "choices": [
+            "A pour les vols internationaux, les voyageurs doivent arriver deux heures avant le départ",
+            "B les voyageurs étrangers doivent arriver deux heures avant le départ",
+            "C pour les vols internationaux, les voyageurs prioritaires arrivent deux heures avant le départ"
+        ],
+        "correct_answer": [],
+        "correct_answer_letter": []
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "type": "Ouverte",
+        "question": "1 Citez 4 qualités indispensables pour l'exercice de la profession de VTC :",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Amabilité, ponctualité, sens du service, discrétion, neutralité, ……"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "2 Qui fixe le prix d'une prestation de VTC, selon quelle contrainte ?",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Le chauffeur VTC en fonction de l'offre et de la demande de son lieu d'exercice"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "3 Lorsque vous préparez votre plan de marketing vous devez vous occuper des :",
+        "bareme": "1",
+        "choices": [
+            "A 3P",
+            "B 4P",
+            "C 5P"
+        ],
+        "correct_answer": [
+            "B 4P"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "4 Vous travaillez avec une entreprise qui règle les prestations à 30 jours fin de mois. Si vous émettez votre facture le 2 mars, vous serez réglé le :",
+        "bareme": "1",
+        "choices": [
+            "A 31 mars",
+            "B 2 avril",
+            "C 30 avril"
+        ],
+        "correct_answer": [
+            "C 30 avril"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "5 En tant qu'exploitant, je peux :",
+        "bareme": "1",
+        "choices": [
+            "A fixer librement les prix en m'assurant de ne pas travailler à perte",
+            "B fixer librement les prix, sous réserve d'être en dessous du prix de revient",
+            "C fixer les prix en respectant scrupuleusement la tarification imposée par l'Etat",
+            "D fixer librement les prix sans me soucier d'autres éléments de coûts"
+        ],
+        "correct_answer": [
+            "A fixer librement les prix en m'assurant de ne pas travailler à perte"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "6 Un chauffeur VTC, en EURL, fait un chiffre d'affaires de 50 000 €. Il a 10 000 € de charges sociales, a vendu son ancienne voiture 8 000 € et a payé 5 000 € de TVA. Quel est son résultat ?",
+        "bareme": "1",
+        "choices": [
+            "A 37 000 €",
+            "B 43 000 €",
+            "C 27 000 €"
+        ],
+        "correct_answer": [
+            "B 43 000 €"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "7 Qu'est-ce qu'une zone de chalandise ?",
+        "bareme": "1",
+        "choices": [
+            "A c'est le nombre de conducteurs de VTC qu'il y a dans une zone géographique",
+            "B c'est un bateau",
+            "C c'est la zone géographique d'où provient la majorité de la clientèle"
+        ],
+        "correct_answer": [
+            "C c'est la zone géographique d'où provient la majorité de la clientèle"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "8 Dans un calcul de coût de revient, font partie des charges fixes :",
+        "bareme": "1",
+        "choices": [
+            "A Les impôts et taxes",
+            "B Les frais administratifs et les assurances",
+            "C Le contrat annuel d'entretien du véhicule"
+        ],
+        "correct_answer": [
+            "A Les impôts et taxes",
+            "B Les frais administratifs et les assurances"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "9 Le conducteur de VTC propose, dans le cadre de sa mission, des prestations de standing auprès d'une clientèle haut de gamme. Pour ces raisons il doit tout mettre en oeuvre afin de ne pas avoir une réputation usurpée et se distinguer des autres transporteurs de personnes en :",
+        "bareme": "1",
+        "choices": [
+            "A utilisant un véhicule puissant, en bon état de propreté afin de déposer le client le plus rapidement possible au mépris des règles élémentaires",
+            "B optimisant sa structure, adoptant une attitude et un comportement professionnel et disposant d'un véhicule remarquable et remarqué",
+            "C prenant en charge tous les clients avec qui il peut être rentable sans tenir compte de la qualité de la prestation",
+            "D prenant en charge des clients sans tenir compte des valeurs du conducteur de VTC, ni de la norme de la profession"
+        ],
+        "correct_answer": [
+            "B optimisant sa structure, adoptant une attitude et un comportement professionnel et disposant d'un véhicule remarquable et remarqué"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "10 A quoi correspond le chiffre d'affaires d'un exploitant VTC ?",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Il correspond à la somme des prestations réalisées au cours d'un exercice (transports et prestations annexes)."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 Lorsque le client du VTC règle sa facture par anticipation, il peut bénéficier :",
+        "bareme": "1",
+        "choices": [
+            "A d'une réduction au libre choix de l'exploitant",
+            "B d'une remise tarifaire",
+            "C d'une réduction calculée à partis du taux de la Banque Centrale Européenne",
+            "D d'un escompte"
+        ],
+        "correct_answer": [
+            "D d'un escompte"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 Qu'est-ce qu'un prospect ?",
+        "bareme": "1",
+        "choices": [
+            "A un client potentiel",
+            "B l'ensemble des clients non facturés uniquement",
+            "C une publicité sur format papier A5 ou plus petit permettant au conducteur de VTC de se faire connaître",
+            "D une brochure publicitaire référençant l'ensemble d'un catalogue de prestation"
+        ],
+        "correct_answer": [
+            "A un client potentiel"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "13 Qu'est-ce que le marché en mercatique ?",
+        "bareme": "1",
+        "choices": [
+            "A le lien où des producteurs se rassemblent pour proposer directement leurs produits/prestations aux consommateurs",
+            "B l'ensemble des vendeurs et des acheteurs concernés par l'échange d'un bien ou d'un service",
+            "C le lien de rencontre physique ou virtuel de l'offre et de la demande"
+        ],
+        "correct_answer": [
+            "B l'ensemble des vendeurs et des acheteurs concernés par l'échange d'un bien ou d'un service"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 Le prix de vente d'une prestation doit être égal au :",
+        "bareme": "1",
+        "choices": [
+            "A coût de revient +TVA",
+            "B coût de revient + marge + TVA",
+            "C total des charges variables + TVA"
+        ],
+        "correct_answer": [
+            "B coût de revient + marge + TVA"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "15 Quelle affirmation est vraie :",
+        "bareme": "1",
+        "choices": [
+            "A lorsque l'offre est inférieure à la demande, les prix diminuent",
+            "B lorsque l'offre est supérieure à la demande, les prix augmentent",
+            "C lorsque l'offre est supérieure à la demande, les prix diminuent"
+        ],
+        "correct_answer": [
+            "C lorsque l'offre est supérieure à la demande, les prix diminuent"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "16 Le site internet de mon entreprise doit me permettre de :",
+        "bareme": "1",
+        "choices": [
+            "A présenter mes services et savoir-faire",
+            "B proposer mes produits uniquement à l'extérieur de ma zone de chalandise",
+            "C générer de nouveaux contacts auprès de prospects potentiels"
+        ],
+        "correct_answer": [
+            "A présenter mes services et savoir-faire",
+            "C générer de nouveaux contacts auprès de prospects potentiels"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    }
+]
