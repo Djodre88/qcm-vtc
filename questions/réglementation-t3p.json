@@ -1,7 +1,7 @@
 [
     {
         "type": "Ouverte",
-        "question": "1 Citez deux cas dans lesquels la carte professionnelle peut être retirée à un conducteur du T3P ?",
+        "question": "1 - Citez deux cas dans lesquels la carte professionnelle peut être retirée à un conducteur du T3P ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -13,7 +13,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "2 Pour s'inscrire à l'examen d'accès à la profession, le candidat ne doit pas avoir fait l'objet d'une exclusion pour fraude lors d'une session à un examen du T3P :",
+        "question": "2 - Pour s'inscrire à l'examen d'accès à la profession, le candidat ne doit pas avoir fait l'objet d'une exclusion pour fraude lors d'une session à un examen du T3P :",
         "bareme": "1",
         "choices": [
             "A dans les 10 ans qui précèdent sa demande",
@@ -30,7 +30,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "3 Un examen médical supplémentaire à celui exigé pour exercer la profession de conducteur peut être demandé :",
+        "question": "3 - Un examen médical supplémentaire à celui exigé pour exercer la profession de conducteur peut être demandé :",
         "bareme": "1",
         "choices": [
             "A En cas d'interruption d'activité pendant plus de six mois",
@@ -46,7 +46,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "4 Qu'est-ce qu'un service de transport régulier ?",
+        "question": "4 - Qu'est-ce qu'un service de transport régulier ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -58,7 +58,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "5 L'assurance dite responsabilité civile professionnelle (RCP) peut être invoquée par le conducteur s'il :",
+        "question": "5 - L'assurance dite responsabilité civile professionnelle (RCP) peut être invoquée par le conducteur s'il :",
         "bareme": "1",
         "choices": [
             "A abîme le vêtement de son passager en l'accompagnant jusqu'à son hôtel",
@@ -74,7 +74,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "6 Si un chauffeur utilise son véhicule T3P dans le cadre d'une activité non-professionnelle que doit-il faire ?",
+        "question": "6 - Si un chauffeur utilise son véhicule T3P dans le cadre d'une activité non-professionnelle que doit-il faire ?",
         "bareme": "1",
         "choices": [
             "A enlever ou occulter toutes références à la profession exercée",
@@ -91,7 +91,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "7 Parmi les condamnations suivantes, lesquelles peuvent être mentionnées au bulletin n° 2 du casier judiciaire ?",
+        "question": "7 - Parmi les condamnations suivantes, lesquelles peuvent être mentionnées au bulletin n° 2 du casier judiciaire ?",
         "bareme": "1",
         "choices": [
             "A transporter et déposer des objets, déchets, liquides insalubres en un lieu sans l'autorisation de la personne ayant la jouissance du lieu",
@@ -110,7 +110,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "8 Quel est le terme utilisé quand un conducteur de T3P prend en charge un client sur la voie publique sans réservation au préalable ?",
+        "question": "8 - Quel est le terme utilisé quand un conducteur de T3P prend en charge un client sur la voie publique sans réservation au préalable ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -122,7 +122,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "9 Qui parmi les T3P peuvent être conventionnés par la caisse d'assurance maladie ?",
+        "question": "9 - Qui parmi les T3P peuvent être conventionnés par la caisse d'assurance maladie ?",
         "bareme": "1",
         "choices": [
             "A Les taxis",
@@ -138,7 +138,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "10 La réglementation du T3P se trouve dans le :",
+        "question": "10 - La réglementation du T3P se trouve dans le :",
         "bareme": "1",
         "choices": [
             "A code préfectoral",
@@ -155,7 +155,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "11 Quelles sont les sanctions administratives encourues par un conducteur de T3P en cas de violation de la réglementation de la profession ?",
+        "question": "11 - Quelles sont les sanctions administratives encourues par un conducteur de T3P en cas de violation de la réglementation de la profession ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -167,7 +167,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "12 Un artisan effectuant du T3P est victime d'un accident corporel de la circulation dans l'exercice de son activité, sous quel régime est-il :",
+        "question": "12 - Un artisan effectuant du T3P est victime d'un accident corporel de la circulation dans l'exercice de son activité, sous quel régime est-il :",
         "bareme": "1",
         "choices": [
             "A pas de régime particulier",
@@ -183,7 +183,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "13 Une centrale de réservation doit justifier de l'existence d'un contrat d'assurance couvrant quel type de responsabilité ?",
+        "question": "13 - Une centrale de réservation doit justifier de l'existence d'un contrat d'assurance couvrant quel type de responsabilité ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -195,7 +195,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "14 Un conducteur de transport public particulier de personnes n'effectuant que des remplacements épisodiques doit-il être titulaire d' une carte professionnelle ?",
+        "question": "14 - Un conducteur de transport public particulier de personnes n'effectuant que des remplacements épisodiques doit-il être titulaire d' une carte professionnelle ?",
         "bareme": "1",
         "choices": [
             "A non si ces remplacements représentent moins de 10 heures par semaine.",
@@ -211,7 +211,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "15 Les centres de formation sont agréés par :",
+        "question": "15 - Les centres de formation sont agréés par :",
         "bareme": "1",
         "choices": [
             "A le préfet du département",
@@ -227,7 +227,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "1 Un conducteur sanctionné par le tribunal correctionnel pour délit de fuite peut saisir :",
+        "question": "16 - Un conducteur sanctionné par le tribunal correctionnel pour délit de fuite peut saisir :",
         "bareme": "1",
         "choices": [
             "A le tribunal correctionnel qui jugera à nouveau l'affaire",
@@ -244,7 +244,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "2 Quelle est l'autorité qui effectue la vérification du casier judiciaire d'un candidat à la carte professionnelle de conducteur de véhicules T3P ?",
+        "question": "17 - Quelle est l'autorité qui effectue la vérification du casier judiciaire d'un candidat à la carte professionnelle de conducteur de véhicules T3P ?",
         "bareme": "1",
         "choices": [
             "A le ministère chargé des transports",
@@ -261,7 +261,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "3 Quelles assurances doit souscrire un professionnel effectuant du T3P ?",
+        "question": "18 - Quelles assurances doit souscrire un professionnel effectuant du T3P ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -273,7 +273,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "4 Le retrait de la carte professionnelle est :",
+        "question": "19 - Le retrait de la carte professionnelle est :",
         "bareme": "1",
         "choices": [
             "A consécutif à la décision d'un juge de l'ordre administratif sous certaines conditions",
@@ -292,7 +292,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "5 Citez deux cas dans lesquels la carte professionnelle peut être retirée à un conducteur du T3P ?",
+        "question": "20 - Citez deux cas dans lesquels la carte professionnelle peut être retirée à un conducteur du T3P ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -304,7 +304,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "6 Quel kilométrage maximum un conducteur de T3P peut-il réaliser pour sa course ?",
+        "question": "21 - Quel kilométrage maximum un conducteur de T3P peut-il réaliser pour sa course ?",
         "bareme": "1",
         "choices": [
             "A 500 km",
@@ -321,7 +321,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "7 Qui agrée les organismes de formation continue des conducteurs de T3P ?",
+        "question": "22 - Qui agrée les organismes de formation continue des conducteurs de T3P ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -333,7 +333,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "8 Quels agents sont habilités à effectuer un contrôle routier de conducteur de T3P ?",
+        "question": "23 - Quels agents sont habilités à effectuer un contrôle routier de conducteur de T3P ?",
         "bareme": "1",
         "choices": [
             "A les policiers",
@@ -352,7 +352,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "9 La réglementation du T3P se trouve dans le :",
+        "question": "24 - La réglementation du T3P se trouve dans le :",
         "bareme": "1",
         "choices": [
             "A code pénal",
@@ -369,7 +369,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "10 Quelle est l'ancienneté maximum pour un véhicule hybride ?",
+        "question": "25 - Quelle est l'ancienneté maximum pour un véhicule hybride ?",
         "bareme": "1",
         "choices": [
             "A aucune",
@@ -386,7 +386,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "11 Que devez-vous présenter aux agents susceptibles d'effectuer des contrôles pour justifier d'une réservation préalable ?",
+        "question": "26 - Que devez-vous présenter aux agents susceptibles d'effectuer des contrôles pour justifier d'une réservation préalable ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -398,7 +398,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "12 Comment se présente une réservation préalable ? Citez 2 mentions qui doivent figurer obligatoirement sur celle-ci.",
+        "question": "27 - Comment se présente une réservation préalable ? Citez 2 mentions qui doivent figurer obligatoirement sur celle-ci.",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -410,7 +410,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "13 Pour être exploitable en activité de transport public particulier de personnes, un véhicule électrique doit être :",
+        "question": "28 - Pour être exploitable en activité de transport public particulier de personnes, un véhicule électrique doit être :",
         "bareme": "1",
         "choices": [
             "A sans contraintes particulières",
@@ -427,7 +427,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "14 Vous êtes chauffeur de transport public particulier de personnes né le 12 mai 1950. Quelle est la périodicité de l'examen médical d'aptitude physique auquel vous devez vous soumettre ?",
+        "question": "29 - Vous êtes chauffeur de transport public particulier de personnes né le 12 mai 1950. Quelle est la périodicité de l'examen médical d'aptitude physique auquel vous devez vous soumettre ?",
         "bareme": "1",
         "choices": [
             "A 5 ans",
@@ -443,7 +443,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "15 Quelle est la taille minimum de la commune dans laquelle peut s'exercer une activité du T3P ?",
+        "question": "30 - Quelle est la taille minimum de la commune dans laquelle peut s'exercer une activité du T3P ?",
         "bareme": "1",
         "choices": [
             "A 1500 habitants",
@@ -460,7 +460,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "1 Quels agents sont habilités à effectuer un contrôle routier de conducteur de T3P ?",
+        "question": "31 - Quels agents sont habilités à effectuer un contrôle routier de conducteur de T3P ?",
         "bareme": "1",
         "choices": [
             "A Les gendarmes",
@@ -479,7 +479,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "2 Un conducteur sanctionné par le tribunal correctionnel pour délit de fuite peut saisir :",
+        "question": "32 - Un conducteur sanctionné par le tribunal correctionnel pour délit de fuite peut saisir :",
         "bareme": "1",
         "choices": [
             "A le tribunal judiciaire pour une condamnation inférieure à 4 000 €",
@@ -496,7 +496,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "3 Quelle est la taille minimum de la commune dans laquelle peut s'exercer une activité du T3P ?",
+        "question": "33 - Quelle est la taille minimum de la commune dans laquelle peut s'exercer une activité du T3P ?",
         "bareme": "1",
         "choices": [
             "A 11000 habitants",
@@ -513,7 +513,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "4 Qui agrée les organismes de formation continue des conducteurs de T3P ?",
+        "question": "34 - Qui agrée les organismes de formation continue des conducteurs de T3P ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -525,7 +525,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "5 Quelle est l'autorité qui effectue la vérification du casier judiciaire d'un candidat à la carte professionnelle de conducteur de véhicules T3P ?",
+        "question": "35 - Quelle est l'autorité qui effectue la vérification du casier judiciaire d'un candidat à la carte professionnelle de conducteur de véhicules T3P ?",
         "bareme": "1",
         "choices": [
             "A le préfet de police ou le préfet",
@@ -542,7 +542,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "6 Quelle est l'ancienneté maximum pour un véhicule hybride ?",
+        "question": "36 - Quelle est l'ancienneté maximum pour un véhicule hybride ?",
         "bareme": "1",
         "choices": [
             "A 6 ans",
@@ -559,7 +559,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "7 Comment se présente une réservation préalable ? Citez 2 mentions qui doivent figurer obligatoirement sur celle-ci.",
+        "question": "37 - Comment se présente une réservation préalable ? Citez 2 mentions qui doivent figurer obligatoirement sur celle-ci.",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -571,7 +571,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "8 Que devez-vous présenter aux agents susceptibles d'effectuer des contrôles pour justifier d'une réservation préalable ?",
+        "question": "38 - Que devez-vous présenter aux agents susceptibles d'effectuer des contrôles pour justifier d'une réservation préalable ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -583,7 +583,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "9 Le retrait de la carte professionnelle est :",
+        "question": "39 - Le retrait de la carte professionnelle est :",
         "bareme": "1",
         "choices": [
             "A une sanction administrative prise par un préfet",
@@ -602,7 +602,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "10 Quelles assurances doit souscrire un professionnel effectuant du T3P ?",
+        "question": "40 - Quelles assurances doit souscrire un professionnel effectuant du T3P ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -614,7 +614,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "11 La réglementation du T3P se trouve dans le :",
+        "question": "41 - La réglementation du T3P se trouve dans le :",
         "bareme": "1",
         "choices": [
             "A Code préfectoral",
@@ -631,7 +631,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "12 Pour être exploitable en activité de transport public particulier de personnes, un véhicule électrique doit être :",
+        "question": "42 - Pour être exploitable en activité de transport public particulier de personnes, un véhicule électrique doit être :",
         "bareme": "1",
         "choices": [
             "A de couleur noire",
@@ -648,7 +648,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "13 Vous êtes chauffeur de transport public particulier de personnes né le 12 mai 1950. Quelle est la périodicité de l'examen",
+        "question": "43 - Vous êtes chauffeur de transport public particulier de personnes né le 12 mai 1950. Quelle est la périodicité de l'examen",
         "bareme": "1",
         "choices": [
             "médical d'aptitude physique auquel vous devez vous soumettre ?",
@@ -665,7 +665,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "14 Citez deux cas dans lesquels la carte professionnelle peut être retirée à un conducteur du T3P ?",
+        "question": "44 - Citez deux cas dans lesquels la carte professionnelle peut être retirée à un conducteur du T3P ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -677,7 +677,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "15 Quel kilométrage maximum un conducteur de T3P peut-il réaliser pour sa course ?",
+        "question": "45 - Quel kilométrage maximum un conducteur de T3P peut-il réaliser pour sa course ?",
         "bareme": "1",
         "choices": [
             "A 1000 km",

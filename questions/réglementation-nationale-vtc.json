@@ -1,11 +1,11 @@
 [
     {
         "type": "Ouverte",
-        "question": "1 Quels sont les 4 éléments mentionnés sur la vignette définitive des véhicules de transport avec chauffeur?",
+        "question": "1 - Quels sont les 4 éléments mentionnés sur la vignette définitive des véhicules de transport avec chauffeur?",
         "bareme": "4",
         "choices": [],
         "correct_answer": [
-            "Indication/Right answer : le numéro d'inscription de l'entreprise au registre des VTC"
+            "Indication/Right answer : le numéro d'inscription de l'entreprise au registre des VTC, le n° d'immatriculation du véhicule, le QR code (ou code barre bidimensionnel), le numéro de référence de la vignette"
         ],
         "correct_answer_letter": [
             "I"
@@ -13,7 +13,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "2 La longueur minimale hors tout d'un véhicule VTC hybride ou électrique :",
+        "question": "2 - La longueur minimale hors tout d'un véhicule VTC hybride ou électrique :",
         "bareme": "2",
         "choices": [
             "A Est de 4,50 mètres",
@@ -21,12 +21,16 @@
             "C Est de 4 mètres",
             "D Aucune longueur minimale n'est imposée"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "D Aucune longueur minimale n'est imposée"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "3 Quelle est l'ancienneté maximale d'un véhicule utilisé en exploitation VTC ?",
+        "question": "3 - Quelle est l'ancienneté maximale d'un véhicule utilisé en exploitation VTC ?",
         "bareme": "2",
         "choices": [
             "A 10 ans",
@@ -34,12 +38,16 @@
             "C Il n'y a pas d'ancienneté maximale",
             "D 6 ans"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "D 6 ans"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "4 Un véhicule VTC peut-il être électrique ?",
+        "question": "4 - Un véhicule VTC peut-il être électrique ?",
         "bareme": "2",
         "choices": [
             "A oui, s'il respecte les conditions de puissance",
@@ -47,24 +55,34 @@
             "C non, c'est interdit",
             "D oui, quelles que soient la taille et la puissance"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "D oui, quelles que soient la taille et la puissance"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "5 Le ticket de réservation doit être établi :",
+        "question": "5 - Le ticket de réservation doit être établi :",
         "bareme": "2",
         "choices": [
             "A Sur support papier",
             "B un engagement oral suffit",
             "C Sur support électronique"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "A Sur support papier",
+            "C Sur support électronique"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "6 Qui délivre la carte professionnelle des conducteurs de VTC ?",
+        "question": "6 - Qui délivre la carte professionnelle des conducteurs de VTC ?",
         "bareme": "2",
         "choices": [
             "A les organisations professionnelles de VTC",
@@ -72,16 +90,20 @@
             "C la chambre de métiers et de l'artisanat",
             "D la Mairie"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "B la préfecture"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
     },
     {
         "type": "Ouverte",
-        "question": "7 Citez trois documents à fournir pour remplir la condition de capacité financière ?",
+        "question": "7 - Citez trois documents à fournir pour remplir la condition de capacité financière ?",
         "bareme": "4",
         "choices": [],
         "correct_answer": [
-            "Indication/Right answer : Facture ou certificat de cession pour un véhicule en plein propriété."
+            "Indication/Right answer : Facture ou certificat de cession pour un véhicule en plein propriété. Contrat de location pour un véhicule en location de longue durée (au-delà de 6 mois). Attestation de capacité financière rédigée, sur papier à en-tête de l'établissement financier agréé par l'ACPR. Numéro de SIREN ou SIRET de l'exploitant ayant déjà déclaré et justifié la capacité financière du véhicule."
         ],
         "correct_answer_letter": [
             "I"
@@ -89,14 +111,276 @@
     },
     {
         "type": "Choix multiple",
-        "question": "8 La taille minimale exigée pour un véhicule de transport avec chauffeur est de :",
+        "question": "8 - La taille minimale exigée pour un véhicule de transport avec chauffeur est de :",
         "bareme": "2",
         "choices": [
             "A L 4.5m x l 1.8m",
             "B L 4.8m x l 1.7m",
             "C L 4.5m x l 1.7m"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C L 4.5m x l 1.7m"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "9 - La prise en charge d'un client sur une voie ouverte à la circulation publique sans réservation préalable est :",
+        "bareme": "2",
+        "choices": [
+            "A autorisée si elle est consécutive à la dépose du client précédent sur le même lieu",
+            "B un délit puni d'une peine de prison et d'une amende pouvant aller jusqu'à 15 000€",
+            "C passible d'une suspension du permis de conduire"
+        ],
+        "correct_answer": [
+            "B un délit puni d'une peine de prison et d'une amende pouvant aller jusqu'à 15 000€",
+            "C passible d'une suspension du permis de conduire"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "10 - Quelle démarche faut-il entreprendre pour pouvoir exploiter un véhicule électrique dérogeant aux caractéristiques techniques imposées aux véhicules VTC ?",
+        "bareme": "4",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : L'exploitant doit faire une demande dérogatoire auprès du préfet ou du préfet de police de Paris avant de pouvoir inscrire ce véhicule sur le registre."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "11 - Quelle sont les dimensions minimum d'une voiture pour être utilisée comme VTC ?",
+        "bareme": "2",
+        "choices": [
+            "A 4,5 m x 1,7 m",
+            "B 4,6 m x 1,8 m",
+            "C 4,3 m x 1,5 m",
+            "D 4,5 m x 1,6 m"
+        ],
+        "correct_answer": [
+            "A 4,5 m x 1,7 m"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "12 - L'inscription au registre des exploitants VTC donne lieu à :",
+        "bareme": "2",
+        "choices": [
+            "A la publication au bulletin officiel",
+            "B la publication du nom de l'entreprise dans la liste des exploitants sur le site du Ministère",
+            "C la délivrance d'une attestation d'inscription",
+            "D la délivrance d'un diplôme"
+        ],
+        "correct_answer": [
+            "B la publication du nom de l'entreprise dans la liste des exploitants sur le site du Ministère",
+            "C la délivrance d'une attestation d'inscription"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "13 - Comment reconnait-on un VTC ?",
+        "bareme": "2",
+        "choices": [
+            "A Par la couleur noire du véhicule de haut-de-gamme",
+            "B Par un macaron à l'avant et à l'arrière du véhicule",
+            "C par un macaron à l'avant",
+            "D Par un macaron à l'arrière"
+        ],
+        "correct_answer": [
+            "B Par un macaron à l'avant et à l'arrière du véhicule"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "14 - La durée maximale de stationnement précédant l'horaire de prise en charge mentionné par le client lors de sa réservation à un aéroport ou une gare pour un VTC est de :",
+        "bareme": "2",
+        "choices": [
+            "A 30 minutes",
+            "B 45 minutes",
+            "C 1 h 30",
+            "D 1 heure"
+        ],
+        "correct_answer": [
+            "D 1 heure"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "15 - Pour la réalisation d'une prestation de VTC :",
+        "bareme": "2",
+        "choices": [
+            "A les conditions générales de vente peuvent constituer un document valant contrat, sous réserve que le client ait dûment signé toutes les pages",
+            "B il doit exister un contrat avec le client final qui doit être obligatoirement écrit sur support papier",
+            "C il doit exister un contrat avec le client final pouvant être écrit sur support papier ou électronique",
+            "D les conditions générales de vente peuvent constituer un document valant contrat, sous réserve que le client ait dûment signé la dernière page"
+        ],
+        "correct_answer": [
+            "C il doit exister un contrat avec le client final pouvant être écrit sur support papier ou électronique"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "16 - Si vous utilisez votre véhicule VTC à des fins privées, que devez-vous faire ?",
+        "bareme": "4",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : La signalétique VTC doit être retirée ou occultée si le véhicule est utilisé pour une autre activité que celle de VTC."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "17 - Quelle sont les dimensions minimum d'une voiture pour être utilisée comme VTC ?",
+        "bareme": "2",
+        "choices": [
+            "A 4,3 m x 1,5 m",
+            "B 4,5 m x 1,7 m",
+            "C 4,5 m x 1,6 m",
+            "D 4,6 m x 1,8 m"
+        ],
+        "correct_answer": [
+            "B 4,5 m x 1,7 m"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "18 - La prise en charge d'un client sur une voie ouverte à la circulation publique sans réservation préalable est :",
+        "bareme": "2",
+        "choices": [
+            "A autorisée si elle est consécutive à la dépose du client précédent sur le même lieu",
+            "B passible d'une suspension du permis de conduire",
+            "C un délit puni d'une peine de prison et d'une amende pouvant aller jusqu'à 15 000€"
+        ],
+        "correct_answer": [
+            "B passible d'une suspension du permis de conduire",
+            "C un délit puni d'une peine de prison et d'une amende pouvant aller jusqu'à 15 000€"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "19 - Pour la réalisation d'une prestation de VTC :",
+        "bareme": "2",
+        "choices": [
+            "A les conditions générales de vente peuvent constituer un document valant contrat, sous réserve que le client ait dûment signé la dernière page",
+            "B les conditions générales de vente peuvent constituer un document valant contrat, sous réserve que le client ait dûment signé toutes les pages",
+            "C il doit exister un contrat avec le client final qui doit être obligatoirement écrit sur support papier",
+            "D il doit exister un contrat avec le client final pouvant être écrit sur support papier ou électronique"
+        ],
+        "correct_answer": [
+            "D il doit exister un contrat avec le client final pouvant être écrit sur support papier ou électronique"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "20 - Quelle démarche faut-il entreprendre pour pouvoir exploiter un véhicule électrique dérogeant aux caractéristiques techniques imposées aux véhicules VTC?",
+        "bareme": "4",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Il n'y a pas de démarche car un véhicule électrique n'a pas besoin de respecter des caractéristiques techniques pour être utilisé par un chauffeur VTC"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "21 - La durée maximale de stationnement précédant l'horaire de prise en charge mentionné par le client lors de sa réservation à un aéroport ou une gare pour un VTC est de :",
+        "bareme": "2",
+        "choices": [
+            "A 1 heure",
+            "B 45 minutes",
+            "C 30 minutes",
+            "D 1 h 30"
+        ],
+        "correct_answer": [
+            "A 1 heure"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "22 - Si vous utilisez votre véhicule VTC à des fins privées, que devez-vous faire ?",
+        "bareme": "4",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Retirer la carte professionnelle"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "23 - Comment reconnait-on un VTC ?",
+        "bareme": "2",
+        "choices": [
+            "A Par un macaron à l'avant et à l'arrière du véhicule",
+            "B Par un macaron à l'arrière",
+            "C Par la couleur noire du véhicule de haut-de-gamme",
+            "D Par un macaron à l'avant"
+        ],
+        "correct_answer": [
+            "A Par un macaron à l'avant et à l'arrière du véhicule"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "24 - L'inscription au registre des exploitants VTC donne lieu à :",
+        "bareme": "2",
+        "choices": [
+            "A la publication au bulletin officiel",
+            "B la délivrance d'un diplôme",
+            "C la publication du nom de l'entreprise dans la liste des exploitants sur le site du Ministère",
+            "D la délivrance d'une attestation d'inscription"
+        ],
+        "correct_answer": [
+            "C la publication du nom de l'entreprise dans la liste des exploitants sur le site du Ministère",
+            "D la délivrance d'une attestation d'inscription"
+        ],
+        "correct_answer_letter": [
+            "C",
+            "D"
+        ]
     }
 ]

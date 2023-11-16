@@ -1,17 +1,7 @@
 [
     {
         "type": "Choix multiple",
-        "question": "Evalbox Copie de Annales 2019 CMA FRANCE",
-        "bareme": "2",
-        "choices": [
-            "©Evalbox page 1/3"
-        ],
-        "correct_answer": [],
-        "correct_answer_letter": []
-    },
-    {
-        "type": "Choix multiple",
-        "question": "1 Est-ce que tout va bien ?",
+        "question": "1 - Est-ce que tout va bien ?",
         "bareme": "1",
         "choices": [
             "A is everything ok?",
@@ -19,12 +9,18 @@
             "C was everything fine?",
             "D are everything ok?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "A is everything ok?",
+            "B is everything fine?"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "B"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "2 Sorry! It's quite expensive for us. May we get a ……………… price?",
+        "question": "2 - Sorry! It's quite expensive for us. May we get a ……………… price?",
         "bareme": "1",
         "choices": [
             "A lower",
@@ -32,146 +28,192 @@
             "C less",
             "D reduction"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "A lower"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "3 Votre séjour s'est-il bien passé ?",
+        "question": "3 - Votre séjour s'est-il bien passé ?",
         "bareme": "1",
         "choices": [
             "A Where would you like to go?",
             "B How was your trip?",
             "C Did you enjoy your stay?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C Did you enjoy your stay?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "4 Il est interdit de fumer dans la voiture !",
+        "question": "4 - Il est interdit de fumer dans la voiture !",
         "bareme": "1",
         "choices": [
             "A it's allowed of smoke in the car!",
             "B it's forbidden to smoke in the car!",
             "C it's forbidden of smoke in the car!"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "B it's forbidden to smoke in the car!"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "5 Do you have change on ten euros?",
+        "question": "5 - Do you have change on ten euros?",
         "bareme": "1",
         "choices": [
             "A connaissez-vous un bureau de change pour des euros ?",
             "B avez-vous la monnaie sur dix euros ?",
             "C pouvez-vous me donner dix euros ?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "B avez-vous la monnaie sur dix euros ?"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "6 Souhaitez-vous un reçu ?",
+        "question": "6 - Souhaitez-vous un reçu ?",
         "bareme": "1",
         "choices": [
             "A do you want a ticket?",
             "B did you want a bill?",
             "C would you like a receipt?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C would you like a receipt?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "7 Puis-je mettre vos bagages dans le coffre ?",
+        "question": "7 - Puis-je mettre vos bagages dans le coffre ?",
         "bareme": "1",
         "choices": [
             "A May I leave your luggage there?",
             "B May I put your luggage in the trunk?",
             "C May I take your luggage?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "B May I put your luggage in the trunk?"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "8 A windscreen :",
+        "question": "8 - A windscreen :",
         "bareme": "1",
         "choices": [
             "A Un déflecteur",
             "B Un GPS",
             "C Un pare-brise"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C Un pare-brise"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "9 Où se trouve le musée s'il vous plait?",
+        "question": "9 - Où se trouve le musée s'il vous plait?",
         "bareme": "1",
         "choices": [
             "A where is the museum please ?",
             "B where is the musee please ?",
             "C where was the museum please ?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "A where is the museum please ?"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "10 Quelle est la marque de votre voiture ?",
+        "question": "10 - Quelle est la marque de votre voiture ?",
         "bareme": "1",
         "choices": [
-            "Evalbox Copie de Annales 2019 CMA FRANCE",
-            "©Evalbox page 2/3",
             "A is that your car?",
             "B how is your car?",
             "C what is the brand of your car?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C what is the brand of your car?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "11 My daughter is ……….; she wants to eat now.",
+        "question": "11 - My daughter is ……….; she wants to eat now.",
         "bareme": "1",
         "choices": [
             "A angry",
             "B hungry",
             "C thirsty"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "B hungry"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "12 Recevoir une amende :",
+        "question": "12 - Recevoir une amende :",
         "bareme": "1",
         "choices": [
             "A to receive an almond",
             "B to be fined",
             "C to get a warning"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "B to be fined"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "13 What does « actually » mean?",
+        "question": "13 - What does « actually » mean?",
         "bareme": "1",
         "choices": [
             "A réellement",
             "B actuellement",
             "C récent"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "A réellement"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "14 Can you pick me up at the library, please?",
+        "question": "14 - Can you pick me up at the library, please?",
         "bareme": "1",
         "choices": [
             "A pouvez-vous me déposer jusqu'à la librairie, s'il vous plaît ?",
@@ -179,79 +221,758 @@
             "C pouvez-vous me chercher à une bibliothèque, s'il vous plaît ?",
             "D pouvez-vous me porter jusqu'à une librairie, s'il vous plaît ?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "B pouvez-vous venir me chercher à la bibliothèque, s'il vous plaît ?"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "15 Comment se rend-on au cinéma ?",
+        "question": "15 - Comment se rend-on au cinéma ?",
         "bareme": "1",
         "choices": [
             "A how can I go to the cinema?",
             "B can you tell me the way to the cinema?",
             "C how do you go to the cinema?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "A how can I go to the cinema?",
+            "B can you tell me the way to the cinema?"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "B"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "16 Acceptez-vous les cartes de crédit étrangères ?",
+        "question": "16 - Acceptez-vous les cartes de crédit étrangères ?",
         "bareme": "1",
         "choices": [
             "A do you have any money?",
             "B do you take stranger credit cards?",
             "C do you accept foreign credit cards?"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C do you accept foreign credit cards?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "17 Keep the change :",
+        "question": "17 - Keep the change :",
         "bareme": "1",
         "choices": [
             "A Avez-vous de la monnaie ?",
             "B Gardez cette direction",
             "C Gardez la monnaie"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C Gardez la monnaie"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "18 Taking the bus is cheaper than taking the train:",
+        "question": "18 - Taking the bus is cheaper than taking the train:",
         "bareme": "1",
         "choices": [
             "A prendre le bus est plus long que prendre le train",
             "B prendre le bus coûte plus cher que prendre le train",
             "C prendre le bus coûte moins cher que prendre le train"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C prendre le bus coûte moins cher que prendre le train"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "19 Séléctionnez la phrase correctement formulée :",
+        "question": "19 - Séléctionnez la phrase correctement formulée :",
         "bareme": "1",
         "choices": [
             "A there is a few pubs in Reims",
             "B there is many pubs in Reims",
             "C there are a few pubs in Reims"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "C there are a few pubs in Reims"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     },
     {
         "type": "Choix multiple",
-        "question": "20 For international flights, travelers have to arrive two hours prior to departure",
+        "question": "20 - For international flights, travelers have to arrive two hours prior to departure",
         "bareme": "1",
         "choices": [
             "A pour les vols internationaux, les voyageurs doivent arriver deux heures avant le départ",
             "B les voyageurs étrangers doivent arriver deux heures avant le départ",
             "C pour les vols internationaux, les voyageurs prioritaires arrivent deux heures avant le départ"
         ],
-        "correct_answer": [],
-        "correct_answer_letter": []
+        "correct_answer": [
+            "A pour les vols internationaux, les voyageurs doivent arriver deux heures avant le départ"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "21 - I was told to say anything concerning this new advert:",
+        "bareme": "1",
+        "choices": [
+            "A je n'avais rien à dire concernant ce nouvel adversaire",
+            "B je n'ai rien à dire à propos de ce nouvel avertissement",
+            "C on m'a dit de ne rien dire de cette nouvelle publicité"
+        ],
+        "correct_answer": [
+            "C on m'a dit de ne rien dire de cette nouvelle publicité"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "22 - Bonjour, êtes-vous disponible pour m'emmener à la gare?",
+        "bareme": "1",
+        "choices": [
+            "A hello, are you available to make me to the station?",
+            "B hello, are you disponible to get me to the station?",
+            "C hello, are you available to get me to the station?",
+            "D hello, are you disponible to make me to the station?"
+        ],
+        "correct_answer": [
+            "C hello, are you available to get me to the station?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "23 - You will ……………, our island is amazing.",
+        "bareme": "1",
+        "choices": [
+            "A watch",
+            "B breathe",
+            "C hear",
+            "D see"
+        ],
+        "correct_answer": [
+            "D see"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "24 - Thank you for the ride, keep the change:",
+        "bareme": "1",
+        "choices": [
+            "A merci pour la course, gardez la monnaie",
+            "B merci d'avoir attendu, gardez la monnaie",
+            "C merci pour la course, ne changez pas"
+        ],
+        "correct_answer": [
+            "A merci pour la course, gardez la monnaie"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "25 - Nous vérifions le moteur trois fois par an",
+        "bareme": "1",
+        "choices": [
+            "A we're checking the motor three times per week",
+            "B we check the motor three times per year",
+            "C we were tchecking the motor three times per year"
+        ],
+        "correct_answer": [
+            "B we check the motor three times per year"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "26 - Pourriez-vous passer me prendre ici demain à 6 heures, s'il-vous-plait ?",
+        "bareme": "1",
+        "choices": [
+            "A could you pick me on here tomorrow at 6, please?",
+            "B could you pick me up here tomorrow at 6, please?",
+            "C can you take me here tomorrow at 6, please?"
+        ],
+        "correct_answer": [
+            "B could you pick me up here tomorrow at 6, please?"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "27 - Have you come for the music festival?",
+        "bareme": "1",
+        "choices": [
+            "A avez-vous votre place pour le festival de musique ?",
+            "B êtes-vous allés au festival de musique ?",
+            "C êtes-vous venus pour le festival de musique ?"
+        ],
+        "correct_answer": [
+            "C êtes-vous venus pour le festival de musique ?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "28 - I took a taxi because the buses were on strike",
+        "bareme": "1",
+        "choices": [
+            "A je prends un taxi car les bus sont lents",
+            "B j'ai pris un taxi car les bus ne fonctionnaient pas",
+            "C j'ai pris un taxi car les bus étaient en grève"
+        ],
+        "correct_answer": [
+            "C j'ai pris un taxi car les bus étaient en grève"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "29 - Disabled welcome :",
+        "bareme": "1",
+        "choices": [
+            "A J'accueille les handicapés",
+            "B Pas de place pour le fauteuil",
+            "C Pas de fauteuil roulant"
+        ],
+        "correct_answer": [
+            "A J'accueille les handicapés"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "30 - Do you take the......card?",
+        "bareme": "1",
+        "choices": [
+            "Evalbox Copie de CMA France Annales 2020",
+            "©Evalbox page 2/3",
+            "A credit",
+            "B right",
+            "C blue"
+        ],
+        "correct_answer": [
+            "A credit"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "31 - Souhaitez-vous un reçu ?",
+        "bareme": "1",
+        "choices": [
+            "A did you want a bill?",
+            "B do you want a ticket?",
+            "C would you like a receipt?"
+        ],
+        "correct_answer": [
+            "C would you like a receipt?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "32 - Savez-vous de quand date ce bâtiment historique ?",
+        "bareme": "1",
+        "choices": [
+            "A do you know some listed historical monuments?",
+            "B do you know when this historical monument was built ?",
+            "C is it possible to visit this historical monument?"
+        ],
+        "correct_answer": [
+            "B do you know when this historical monument was built ?"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "33 - Il est interdit de fumer dans la voiture !",
+        "bareme": "1",
+        "choices": [
+            "A it's allowed of smoke in the car!",
+            "B it's forbidden of smoke in the car!",
+            "C it's forbidden to smoke in the car!"
+        ],
+        "correct_answer": [
+            "C it's forbidden to smoke in the car!"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "34 - Passez-vous un agréable séjour en France ?",
+        "bareme": "1",
+        "choices": [
+            "A do you enjoy your stay in France?",
+            "B do you like France?",
+            "C are you ok in France?"
+        ],
+        "correct_answer": [
+            "A do you enjoy your stay in France?"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "35 - Les gilets jaunes bloquent les autoroutes en ce moment",
+        "bareme": "1",
+        "choices": [
+            "A the yellow vests block the motorways",
+            "B the yellow vests are blocking the motorways",
+            "C the yellow vests blocked the motorways",
+            "D the yellow vests will block the motorways"
+        ],
+        "correct_answer": [
+            "B the yellow vests are blocking the motorways"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "36 - Elle vit à Paris depuis dix ans",
+        "bareme": "1",
+        "choices": [
+            "A She lived in Paris for ten years",
+            "B She has lived in Paris until ten years",
+            "C She had been living in Paris since ten years",
+            "D She has been living in Paris for ten years"
+        ],
+        "correct_answer": [
+            "D She has been living in Paris for ten years"
+        ],
+        "correct_answer_letter": [
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "37 - What is the opposite of slow?",
+        "bareme": "1",
+        "choices": [
+            "A fast",
+            "B noisy",
+            "C dry"
+        ],
+        "correct_answer": [
+            "A fast"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "38 - She..........english very well.",
+        "bareme": "1",
+        "choices": [
+            "A speaks",
+            "B spoken",
+            "C speak"
+        ],
+        "correct_answer": [
+            "A speaks"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "39 - Vous nous devez 53 euros :",
+        "bareme": "1",
+        "choices": [
+            "A you must buy 53 euros",
+            "B you owe us 53 euros",
+            "C you must us 53 euros"
+        ],
+        "correct_answer": [
+            "B you owe us 53 euros"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "40 - Sorry! It's quite expensive for us. May we get a ……………… price?",
+        "bareme": "1",
+        "choices": [
+            "A lower",
+            "B less",
+            "C reduction",
+            "D gooder"
+        ],
+        "correct_answer": [
+            "A lower"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "41 - Savez-vous de quand date ce bâtiment historique ?",
+        "bareme": "1",
+        "choices": [
+            "A is it possible to visit this historical monument?",
+            "B do you know some listed historical monuments?",
+            "C do you know when this historical monument was built ?"
+        ],
+        "correct_answer": [
+            "C do you know when this historical monument was built ?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "42 - You will ……………, our island is amazing.",
+        "bareme": "1",
+        "choices": [
+            "A look",
+            "B see",
+            "C watch"
+        ],
+        "correct_answer": [
+            "B see"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "43 - Pourriez-vous passer me prendre ici demain à 6 heures, s'il-vous-plait ?",
+        "bareme": "1",
+        "choices": [
+            "A can you take me here tomorrow at 6, please?",
+            "B could you pick me on here tomorrow at 6, please?",
+            "C could you pick me up here tomorrow at 6, please?"
+        ],
+        "correct_answer": [
+            "C could you pick me up here tomorrow at 6, please?"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "44 - Thank you for the ride, keep the change.",
+        "bareme": "1",
+        "choices": [
+            "A Merci pour la course, ne changez pas",
+            "B Merci d'avoir attendu, gardez la monnaie",
+            "C Merci pour la course, gardez la monnaie"
+        ],
+        "correct_answer": [
+            "C Merci pour la course, gardez la monnaie"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "45 - Passez-vous un agréable séjour en France ?",
+        "bareme": "1",
+        "choices": [
+            "A do you enjoy your stay in France?",
+            "B do you like France?",
+            "C are you ok in France?"
+        ],
+        "correct_answer": [
+            "A do you enjoy your stay in France?"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "46 - She..........English very well.",
+        "bareme": "1",
+        "choices": [
+            "A speaks",
+            "B speak",
+            "C spoken"
+        ],
+        "correct_answer": [
+            "A speaks"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "47 - Have you come for the music festival?",
+        "bareme": "1",
+        "choices": [
+            "A Êtes-vous venus pour le festival de musique ?",
+            "B Avez-vous votre place pour le festival de musique ?",
+            "C Êtes-vous allés au festival de musique ?"
+        ],
+        "correct_answer": [
+            "A Êtes-vous venus pour le festival de musique ?"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "48 - Souhaitez-vous un reçu ?",
+        "bareme": "1",
+        "choices": [
+            "A would you like a receipt?",
+            "B did you want a bill?",
+            "C do you want a ticket?"
+        ],
+        "correct_answer": [
+            "A would you like a receipt?"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "49 - Sorry! It's quite expensive for us. May we get a ……………… price?",
+        "bareme": "1",
+        "choices": [
+            "A less",
+            "B lower",
+            "C reduction"
+        ],
+        "correct_answer": [
+            "B lower"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "50 - Les gilets jaunes bloquent les autoroutes en ce moment",
+        "bareme": "1",
+        "choices": [
+            "A The yellow vests are blocking the motorways",
+            "B The yellow vests block the motorways",
+            "C The yellow vests blocked the motorways"
+        ],
+        "correct_answer": [
+            "A The yellow vests are blocking the motorways"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "51 - Disabled welcome :",
+        "bareme": "1",
+        "choices": [
+            "A Pas de fauteuil roulant",
+            "B J'accueille les handicapés",
+            "C Pas de place pour le fauteuil"
+        ],
+        "correct_answer": [
+            "B J'accueille les handicapés"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "52 - Bonjour, êtes-vous disponible pour m'emmener à la gare?",
+        "bareme": "1",
+        "choices": [
+            "A hello, are you disponible to make me to the station?",
+            "B hello, are you available to get me to the station?",
+            "C hello, are you disponible to get me to the station?",
+            "D hello, are you available to make me to the station?"
+        ],
+        "correct_answer": [
+            "B hello, are you available to get me to the station?"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "53 - Do you take the......card?",
+        "bareme": "1",
+        "choices": [
+            "A business",
+            "B credit",
+            "C blue"
+        ],
+        "correct_answer": [
+            "B credit"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "54 - I was told to say anything concerning this new advert:",
+        "bareme": "1",
+        "choices": [
+            "A je n'ai rien à dire à propos de ce nouvel avertissement",
+            "B on m'a dit de ne rien dire de cette nouvelle publicité",
+            "C je n'avais rien à dire concernant ce nouvel adversaire"
+        ],
+        "correct_answer": [
+            "B on m'a dit de ne rien dire de cette nouvelle publicité"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "55 - Nous vérifions le moteur trois fois par an",
+        "bareme": "1",
+        "choices": [
+            "A we check the motor three times per year",
+            "B we're checking the motor three times per week",
+            "C we were tchecking the motor three times per year"
+        ],
+        "correct_answer": [
+            "A we check the motor three times per year"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "56 - Vous nous devez 53 euros :",
+        "bareme": "1",
+        "choices": [
+            "A you must us 53 euros",
+            "B you must buy 53 euros",
+            "C you owe us 53 euros"
+        ],
+        "correct_answer": [
+            "C you owe us 53 euros"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "57 - What is the opposite of slow?",
+        "bareme": "1",
+        "choices": [
+            "A Noisy",
+            "B Dry",
+            "C Fast"
+        ],
+        "correct_answer": [
+            "C Fast"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "58 - Il est interdit de fumer dans la voiture !",
+        "bareme": "1",
+        "choices": [
+            "A it's allowed of smoke in the car!",
+            "B it's forbidden to smoke in the car!",
+            "C it's forbidden of smoke in the car!"
+        ],
+        "correct_answer": [
+            "B it's forbidden to smoke in the car!"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "59 - Elle vit à Paris depuis dix ans",
+        "bareme": "1",
+        "choices": [
+            "A She had been living in Paris since ten years",
+            "B She has been living in Paris for ten years",
+            "C She has lived in Paris until ten years",
+            "D She lived in Paris for ten years"
+        ],
+        "correct_answer": [
+            "B She has been living in Paris for ten years"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "60 - I took a taxi because the buses were on strike",
+        "bareme": "1",
+        "choices": [
+            "A je prends un taxi car les bus sont lents",
+            "B j'ai pris un taxi car les bus ne fonctionnaient pas",
+            "C j'ai pris un taxi car les bus étaient en grève"
+        ],
+        "correct_answer": [
+            "C j'ai pris un taxi car les bus étaient en grève"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
     }
 ]

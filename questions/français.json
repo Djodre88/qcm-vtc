@@ -1,7 +1,7 @@
 [
     {
         "type": "Ouverte",
-        "question": "1 Qu'est-ce qu'il faudrait faire pour faciliter l'interaction entre voitures autonomes et véhicules classiques ?",
+        "question": "1 - Qu'est-ce qu'il faudrait faire pour faciliter l'interaction entre voitures autonomes et véhicules classiques ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -13,7 +13,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "2 Qui sont les poids lourds qui dépensent des milliards de dollars pour développer cette technologie ?",
+        "question": "2 - Qui sont les poids lourds qui dépensent des milliards de dollars pour développer cette technologie ?",
         "bareme": "2",
         "choices": [
             "A Google, General Motors, Tesla",
@@ -31,7 +31,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "3 Les dispositifs d'assistance à la conduite permettent au véhicule automatisé de :",
+        "question": "3 - Les dispositifs d'assistance à la conduite permettent au véhicule automatisé de :",
         "bareme": "2",
         "choices": [
             "A se garer tout seul.",
@@ -49,7 +49,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "4 Google teste des taxis :",
+        "question": "4 - Google teste des taxis :",
         "bareme": "2",
         "choices": [
             "A sans chauffeurs",
@@ -65,7 +65,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "5 Si deux piétons discutent sur le bord de la route la voiture sans conducteur:",
+        "question": "5 - Si deux piétons discutent sur le bord de la route la voiture sans conducteur:",
         "bareme": "2",
         "choices": [
             "A s'arrête pour les faire traverser",
@@ -81,7 +81,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "6 Les robots :",
+        "question": "6 - Les robots :",
         "bareme": "2",
         "choices": [
             "A reconnaissent les interactions humaines",
@@ -97,7 +97,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "7 Quelles situations sont des challenges pour la voiture sans conducteur ?",
+        "question": "7 - Quelles situations sont des challenges pour la voiture sans conducteur ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -109,7 +109,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "8 Pourquoi les interactions avec les humains sont-elles complexes pour les robots ?",
+        "question": "8 - Pourquoi les interactions avec les humains sont-elles complexes pour les robots ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -121,7 +121,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "9 A partir de quand la voiture sans conducteur pourra-t elle circuler ?",
+        "question": "9 - A partir de quand la voiture sans conducteur pourra-t elle circuler ?",
         "bareme": "2",
         "choices": [
             "A Demain.",
@@ -137,7 +137,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "10 Au sujet de la voiture sans chauffeur les experts sont :",
+        "question": "10 - Au sujet de la voiture sans chauffeur les experts sont :",
         "bareme": "2",
         "choices": [
             "A partagés",
@@ -153,7 +153,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "1 Pourquoi le Cybertruck pourrait-il avoir du mal à séduire la clientèle traditionnelle ?",
+        "question": "11 - Pourquoi le Cybertruck pourrait-il avoir du mal à séduire la clientèle traditionnelle ?",
         "bareme": "2",
         "choices": [
             "A Parce qu'il ne ressemble à rien d'autre",
@@ -169,7 +169,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "2 Quelle est l'autonomie maximale d'un modèle Cybertruck ?",
+        "question": "12 - Quelle est l'autonomie maximale d'un modèle Cybertruck ?",
         "bareme": "2",
         "choices": [
             "A 100km",
@@ -185,7 +185,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "3 Qu'est-ce qu'un prototype ?",
+        "question": "13 - Qu'est-ce qu'un prototype ?",
         "bareme": "2",
         "choices": [
             "A Modèle diffusé à grande échelle",
@@ -201,7 +201,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "4 « Si le pick-up Tesla n'était pas un peu polémique, ça ne serait pas une Tesla». Expliquez cette affirmation",
+        "question": "14 - « Si le pick-up Tesla n'était pas un peu polémique, ça ne serait pas une Tesla». Expliquez cette affirmation",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -213,7 +213,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "5 Pour quel autre moyen de transport l'alliage en acier développé par Tesla sera-t-il utilisé ?",
+        "question": "15 - Pour quel autre moyen de transport l'alliage en acier développé par Tesla sera-t-il utilisé ?",
         "bareme": "2",
         "choices": [
             "A La fusée spatiale",
@@ -229,7 +229,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "6 Pourquoi la présentation du Cybertruck a été un échec?",
+        "question": "16 - Pourquoi la présentation du Cybertruck a été un échec?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -241,7 +241,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "7 Donnez un (des) synonyme(s) de « arborer »:",
+        "question": "17 - Donnez un (des) synonyme(s) de « arborer »:",
         "bareme": "2",
         "choices": [
             "A Dissimuler",
@@ -260,7 +260,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "8 Quelle est la signification du mot « allure » dans le texte ?",
+        "question": "18 - Quelle est la signification du mot « allure » dans le texte ?",
         "bareme": "2",
         "choices": [
             "A Vitesse",
@@ -278,7 +278,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "9 D'après le texte, listez au moins 4 caractéristiques du Cybertruck Tesla.",
+        "question": "19 - D'après le texte, listez au moins 4 caractéristiques du Cybertruck Tesla.",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -290,7 +290,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "10 Quel pick-up est le plus apprécié aux États-Unis depuis longtemps ?",
+        "question": "20 - Quel pick-up est le plus apprécié aux États-Unis depuis longtemps ?",
         "bareme": "2",
         "choices": [
             "A Le Blade Runner",

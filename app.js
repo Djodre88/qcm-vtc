@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
         event.preventDefault();
 
         const selectedThemeOption = document.getElementById("theme-select").value;
+        
         window.location.href = `questionnaire.html?theme=${encodeURIComponent(selectedThemeOption)}`;
     });
 });

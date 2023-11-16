@@ -33,6 +33,9 @@ document.addEventListener("DOMContentLoaded", function () {
         console.error("Le thème sélectionné n'a pas été trouvé dans la correspondance des titres.");
     }
 
+    console.log(selectedTheme)
+    console.log(themeTitles[selectedTheme])
+    console.log(themeTitles["questions\\réglementation-t3p.json"])
 
     fetch(selectedTheme)
         .then((response) => response.json())

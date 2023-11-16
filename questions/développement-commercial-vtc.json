@@ -1,7 +1,7 @@
 [
     {
         "type": "Ouverte",
-        "question": "1 Citez 4 qualités indispensables pour l'exercice de la profession de VTC :",
+        "question": "1 - Citez 4 qualités indispensables pour l'exercice de la profession de VTC :",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -13,7 +13,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "2 Qui fixe le prix d'une prestation de VTC, selon quelle contrainte ?",
+        "question": "2 - Qui fixe le prix d'une prestation de VTC, selon quelle contrainte ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -25,7 +25,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "3 Lorsque vous préparez votre plan de marketing vous devez vous occuper des :",
+        "question": "3 - Lorsque vous préparez votre plan de marketing vous devez vous occuper des :",
         "bareme": "1",
         "choices": [
             "A 3P",
@@ -41,7 +41,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "4 Vous travaillez avec une entreprise qui règle les prestations à 30 jours fin de mois. Si vous émettez votre facture le 2 mars, vous serez réglé le :",
+        "question": "4 - Vous travaillez avec une entreprise qui règle les prestations à 30 jours fin de mois. Si vous émettez votre facture le 2 mars, vous serez réglé le :",
         "bareme": "1",
         "choices": [
             "A 31 mars",
@@ -57,7 +57,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "5 En tant qu'exploitant, je peux :",
+        "question": "5 - En tant qu'exploitant, je peux :",
         "bareme": "1",
         "choices": [
             "A fixer librement les prix en m'assurant de ne pas travailler à perte",
@@ -74,7 +74,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "6 Un chauffeur VTC, en EURL, fait un chiffre d'affaires de 50 000 €. Il a 10 000 € de charges sociales, a vendu son ancienne voiture 8 000 € et a payé 5 000 € de TVA. Quel est son résultat ?",
+        "question": "6 - Un chauffeur VTC, en EURL, fait un chiffre d'affaires de 50 000 €. Il a 10 000 € de charges sociales, a vendu son ancienne voiture 8 000 € et a payé 5 000 € de TVA. Quel est son résultat ?",
         "bareme": "1",
         "choices": [
             "A 37 000 €",
@@ -90,7 +90,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "7 Qu'est-ce qu'une zone de chalandise ?",
+        "question": "7 - Qu'est-ce qu'une zone de chalandise ?",
         "bareme": "1",
         "choices": [
             "A c'est le nombre de conducteurs de VTC qu'il y a dans une zone géographique",
@@ -106,7 +106,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "8 Dans un calcul de coût de revient, font partie des charges fixes :",
+        "question": "8 - Dans un calcul de coût de revient, font partie des charges fixes :",
         "bareme": "1",
         "choices": [
             "A Les impôts et taxes",
@@ -124,7 +124,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "9 Le conducteur de VTC propose, dans le cadre de sa mission, des prestations de standing auprès d'une clientèle haut de gamme. Pour ces raisons il doit tout mettre en oeuvre afin de ne pas avoir une réputation usurpée et se distinguer des autres transporteurs de personnes en :",
+        "question": "9 - Le conducteur de VTC propose, dans le cadre de sa mission, des prestations de standing auprès d'une clientèle haut de gamme. Pour ces raisons il doit tout mettre en oeuvre afin de ne pas avoir une réputation usurpée et se distinguer des autres transporteurs de personnes en :",
         "bareme": "1",
         "choices": [
             "A utilisant un véhicule puissant, en bon état de propreté afin de déposer le client le plus rapidement possible au mépris des règles élémentaires",
@@ -141,7 +141,7 @@
     },
     {
         "type": "Ouverte",
-        "question": "10 A quoi correspond le chiffre d'affaires d'un exploitant VTC ?",
+        "question": "10 - A quoi correspond le chiffre d'affaires d'un exploitant VTC ?",
         "bareme": "2",
         "choices": [],
         "correct_answer": [
@@ -153,7 +153,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "11 Lorsque le client du VTC règle sa facture par anticipation, il peut bénéficier :",
+        "question": "11 - Lorsque le client du VTC règle sa facture par anticipation, il peut bénéficier :",
         "bareme": "1",
         "choices": [
             "A d'une réduction au libre choix de l'exploitant",
@@ -170,7 +170,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "12 Qu'est-ce qu'un prospect ?",
+        "question": "12 - Qu'est-ce qu'un prospect ?",
         "bareme": "1",
         "choices": [
             "A un client potentiel",
@@ -187,7 +187,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "13 Qu'est-ce que le marché en mercatique ?",
+        "question": "13 - Qu'est-ce que le marché en mercatique ?",
         "bareme": "1",
         "choices": [
             "A le lien où des producteurs se rassemblent pour proposer directement leurs produits/prestations aux consommateurs",
@@ -203,7 +203,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "14 Le prix de vente d'une prestation doit être égal au :",
+        "question": "14 - Le prix de vente d'une prestation doit être égal au :",
         "bareme": "1",
         "choices": [
             "A coût de revient +TVA",
@@ -219,7 +219,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "15 Quelle affirmation est vraie :",
+        "question": "15 - Quelle affirmation est vraie :",
         "bareme": "1",
         "choices": [
             "A lorsque l'offre est inférieure à la demande, les prix diminuent",
@@ -235,7 +235,7 @@
     },
     {
         "type": "Choix multiple",
-        "question": "16 Le site internet de mon entreprise doit me permettre de :",
+        "question": "16 - Le site internet de mon entreprise doit me permettre de :",
         "bareme": "1",
         "choices": [
             "A présenter mes services et savoir-faire",
@@ -245,6 +245,505 @@
         "correct_answer": [
             "A présenter mes services et savoir-faire",
             "C générer de nouveaux contacts auprès de prospects potentiels"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "17 - A l'aéroport, le parking professionnel est saturé alors que vos clients ne vont pas tarder à sortir du check out :",
+        "bareme": "1",
+        "choices": [
+            "A vous vous garez sur des zébras",
+            "B vous vous garez au niveau de la dépose taxi car c'est au niveau des arrivées",
+            "C vous vous garez au parking public",
+            "D vous attendez qu'une place se libère"
+        ],
+        "correct_answer": [
+            "C vous vous garez au parking public"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "18 - En cas de retard très important du client, que faites-vous ?",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Dans un premier temps je prends contact avec le client afin de lui demander son heure d'arrivée. En fonction de celle-ci je lui propose de lui réserver un autre VTC si j'ai une autre course de prévue. Dans le cas contraire le client ayant réservé la course, je l'attends."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "19 - En déposant une cliente, de nuit, à son domicile :",
+        "bareme": "1",
+        "choices": [
+            "A vous proposez de la raccompagner jusqu'à la porte de son appartement compte tenu de l'heure tardive",
+            "B vous la déposez devant la porte de son immeuble et attendez qu'elle soit rentrée dans son immeuble avant de repartir",
+            "C vous la déposez devant chez elle et votre mission étant terminée, vous repartez"
+        ],
+        "correct_answer": [
+            "B vous la déposez devant la porte de son immeuble et attendez qu'elle soit rentrée dans son immeuble avant de repartir"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "20 - Dans l'activité de VTC, les conditions générales de vente sont :",
+        "bareme": "1",
+        "choices": [
+            "A indispensables en relation B to C",
+            "B facultatives en relation B to B",
+            "C conformes à la loi Hamon du 17 mars 2014",
+            "D ne doivent pas être fournies à un professionnel qui en fait la demande"
+        ],
+        "correct_answer": [
+            "A indispensables en relation B to C",
+            "C conformes à la loi Hamon du 17 mars 2014"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "21 - Que doit-on dire lorsqu'on décroche un appel téléphonique ?",
+        "bareme": "1",
+        "choices": [
+            "A allo",
+            "B le nom de la société",
+            "C le nom de la société et bonjour"
+        ],
+        "correct_answer": [
+            "C le nom de la société et bonjour"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "22 - La marge peut être exprimée en pourcentage du :",
+        "bareme": "1",
+        "choices": [
+            "A chiffre d'affaires",
+            "B coût fixe",
+            "C coût des cotisations sociales",
+            "D coût de revient"
+        ],
+        "correct_answer": [
+            "A chiffre d'affaires",
+            "D coût de revient"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "23 - Dans le mix marketing, à quoi correspondent les 4P ?",
+        "bareme": "1",
+        "choices": [
+            "A prix produit parrainage personnalisation",
+            "B plateforme présentation place promotion",
+            "C prix produit place promotion"
+        ],
+        "correct_answer": [
+            "C prix produit place promotion"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "24 - Le matériel informatique peut être amorti sur :",
+        "bareme": "1",
+        "choices": [
+            "A 3 ans",
+            "B 5 ans",
+            "C 1 an"
+        ],
+        "correct_answer": [
+            "A 3 ans"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "25 - Quelles sont les méthodes de prospection existantes ? Citez un exemple de chaque.",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Prospection traditionnelle (porte à porte, téléphone) ou prospection numérique (site web, mailing, réseaux sociaux, centrales de réservations)"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "26 - Le panier moyen est :",
+        "bareme": "1",
+        "choices": [
+            "A la moyenne des achats par client",
+            "B la taille des achats à charger dans le coffre",
+            "C la taille moyenne des paniers de courses en France"
+        ],
+        "correct_answer": [
+            "A la moyenne des achats par client"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "27 - Le montant d'une prestation s'élève à 75 € TTC. Calculez le montant de la TVA et le prix HT, en détaillant vos calculs.",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Prix HT : /1,10 = 68,18. Montant TVA : 75 - 68,18 = 6,82"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "28 - Vous connaissez un VTC qui va démarrer son activité avec des prix très bas afin d'attirer un maximum de clients. Que pensez-vous de cette politique tarifaire ?",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Politique tarifaire risquée : rentabilité diminuée, perception du client ( prix bas = qualité mauvaise? ), dégradation de l'image de la profession,...."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "29 - Quelle est la première étape d'une stratégie commerciale ?",
+        "bareme": "1",
+        "choices": [
+            "A le plan d'action",
+            "B le marketing mix",
+            "C l'analyse du marché"
+        ],
+        "correct_answer": [
+            "C l'analyse du marché"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "30 - Trouver régulièrement de nouveaux clients c'est :",
+        "bareme": "1",
+        "choices": [
+            "A Une nécessité pour la survie de l'entreprise",
+            "B Une obligation de votre comptable",
+            "C Un moyen de garder votre confort de vie"
+        ],
+        "correct_answer": [
+            "A Une nécessité pour la survie de l'entreprise"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "31 - Un client vous demande si vous faites des prestations en B to B. De quoi parle-t-il ?",
+        "bareme": "1",
+        "choices": [
+            "A de prestations d'un professionnel vers des professionnels",
+            "B de prestations d'un particulier vers des particuliers",
+            "C de prestations business to business"
+        ],
+        "correct_answer": [
+            "A de prestations d'un professionnel vers des professionnels",
+            "C de prestations business to business"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "32 - Un chauffeur VTC, en EURL, fait un chiffre d'affaires de 50 000 €. Il a 10 000 € de charges sociales, a vendu son ancienne voiture 8 000 € et a payé 5 000 € de TVA. Quel est son résultat ?",
+        "bareme": "1",
+        "choices": [
+            "A 37 000 €",
+            "B 27 000 €",
+            "C 43 000 €"
+        ],
+        "correct_answer": [
+            "C 43 000 €"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "33 - Vous connaissez un VTC qui va démarrer son activité avec des prix très bas afin d'attirer un maximum de clients. Que pensez-vous de cette politique tarifaire ?",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Politique tarifaire risquée : rentabilité diminuée, perception du client ( prix bas = qualité mauvaise? ), dégradation de l'image de la profession,...."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "34 - La marge peut être exprimée en pourcentage du :",
+        "bareme": "1",
+        "choices": [
+            "A chiffre d'affaires",
+            "B coût fixe",
+            "C coût de revient",
+            "D coût des cotisations sociales"
+        ],
+        "correct_answer": [
+            "A chiffre d'affaires",
+            "C coût de revient"
+        ],
+        "correct_answer_letter": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "35 - Dans le mix marketing, à quoi correspondent les 4P ?",
+        "bareme": "1",
+        "choices": [
+            "A Prix - Produit - Place - Promotion",
+            "B Prix - Produit - Parrainage - Personnalisation",
+            "C Plateforme - Présentation - Place - Promotion"
+        ],
+        "correct_answer": [
+            "A Prix - Produit - Place - Promotion"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "36 - Quelles sont les méthodes de prospection existantes ? Citez un exemple de chaque.",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Prospection traditionnelle (porte à porte, téléphone) ou prospection numérique (site web, mailing, réseaux sociaux, centrales de réservations)"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "37 - Quelle est la première étape d'une stratégie commerciale ?",
+        "bareme": "1",
+        "choices": [
+            "A Le marketing mix",
+            "B Le plan d'action",
+            "C L'analyse du marché"
+        ],
+        "correct_answer": [
+            "C L'analyse du marché"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "38 - En cas de retard très important du client, que faites-vous ?",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Dans un premier temps je prends contact avec le client afin de lui demander son heure d'arrivée. En fonction de celle-ci je lui propose de lui réserver un autre VTC si j'ai une autre course de prévue. Dans le cas contraire le client ayant réservé la course, je l'attends."
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "39 - Le matériel informatique peut être amorti sur :",
+        "bareme": "1",
+        "choices": [
+            "A 3 ans",
+            "B 5 ans",
+            "C 1 an"
+        ],
+        "correct_answer": [
+            "A 3 ans"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Ouverte",
+        "question": "40 - Le montant d'une prestation s'élève à 75 € TTC. Calculez le montant de la TVA et le prix HT, en détaillant vos calculs.",
+        "bareme": "2",
+        "choices": [],
+        "correct_answer": [
+            "Indication/Right answer : Prix HT : /1,10 = 68,18. Montant TVA : 75 - 68,18 = 6,82"
+        ],
+        "correct_answer_letter": [
+            "I"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "41 - Un chauffeur VTC, en EURL, fait un chiffre d'affaires de 50 000 €. Il a 10 000 € de charges sociales, a vendu son ancienne",
+        "bareme": "1",
+        "choices": [
+            "voiture 8 000 € et a payé 5 000 € de TVA. Quel est son résultat ?",
+            "A 43 000 €",
+            "B 37 000 €",
+            "C 27 000 €"
+        ],
+        "correct_answer": [
+            "A 43 000 €"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "42 - En déposant une cliente, de nuit, à son domicile :",
+        "bareme": "1",
+        "choices": [
+            "A vous la déposez devant la porte de son immeuble et attendez qu'elle soit rentrée dans son immeuble avant de repartir",
+            "B vous la déposez devant chez elle et votre mission étant terminée, vous repartez",
+            "C vous proposez de la raccompagner jusqu'à la porte de son appartement compte tenu de l'heure tardive"
+        ],
+        "correct_answer": [
+            "A vous la déposez devant la porte de son immeuble et attendez qu'elle soit rentrée dans son immeuble avant de repartir"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "43 - Dans l'activité de VTC, les conditions générales de vente sont :",
+        "bareme": "1",
+        "choices": [
+            "A ne doivent pas être fournies à un professionnel qui en fait la demande",
+            "B indispensables en relation B to C",
+            "C conformes à la loi Hamon du 17 mars 2014",
+            "D facultatives en relation B to B"
+        ],
+        "correct_answer": [
+            "B indispensables en relation B to C",
+            "C conformes à la loi Hamon du 17 mars 2014"
+        ],
+        "correct_answer_letter": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "44 - A l'aéroport, le parking professionnel est saturé alors que vos clients ne vont pas tarder à sortir du check out :",
+        "bareme": "1",
+        "choices": [
+            "A vous vous garez sur des zébras",
+            "B vous vous garez au niveau de la dépose taxi car c'est au niveau des arrivées",
+            "C vous vous garez au parking public",
+            "D vous attendez qu'une place se libère"
+        ],
+        "correct_answer": [
+            "C vous vous garez au parking public"
+        ],
+        "correct_answer_letter": [
+            "C"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "45 - Que doit-on dire lorsqu'on décroche un appel téléphonique ?",
+        "bareme": "1",
+        "choices": [
+            "A le nom de la société et bonjour",
+            "B le nom de la société",
+            "C allo"
+        ],
+        "correct_answer": [
+            "A le nom de la société et bonjour"
+        ],
+        "correct_answer_letter": [
+            "A"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "46 - Le panier moyen est :",
+        "bareme": "1",
+        "choices": [
+            "A la taille des achats à charger dans le coffre",
+            "B la moyenne des achats par client",
+            "C la taille moyenne des paniers de courses en France"
+        ],
+        "correct_answer": [
+            "B la moyenne des achats par client"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "47 - Trouver régulièrement de nouveaux clients c'est :",
+        "bareme": "1",
+        "choices": [
+            "A Un moyen de garder votre confort de vie",
+            "B Une nécessité pour la survie de l'entreprise",
+            "C Une obligation de votre comptable"
+        ],
+        "correct_answer": [
+            "B Une nécessité pour la survie de l'entreprise"
+        ],
+        "correct_answer_letter": [
+            "B"
+        ]
+    },
+    {
+        "type": "Choix multiple",
+        "question": "48 - Un client vous demande si vous faites des prestations en B to B. De quoi parle-t-il ?",
+        "bareme": "1",
+        "choices": [
+            "A de prestations business to business",
+            "B de prestations d'un particulier vers des particuliers",
+            "C de prestations d'un professionnel vers des professionnels"
+        ],
+        "correct_answer": [
+            "A de prestations business to business",
+            "C de prestations d'un professionnel vers des professionnels"
         ],
         "correct_answer_letter": [
             "A",
