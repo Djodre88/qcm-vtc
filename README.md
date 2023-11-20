@@ -18,8 +18,8 @@ Le Questionnaire Web est une application interactive qui permet aux utilisateurs
 Clonez le dépôt sur votre machine locale et installez les dépendances.
 
 ```bash
-git clone https://github.com/votre-utilisateur/questionnaire-web.git
-cd questionnaire-web
+git clone https://github.com/Djodre88/qcm-vtc.git
+cd qcm-vtc
 npm install
 ```
 
